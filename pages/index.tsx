@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Popup from "../styles/src/components/Popup/Popup";
 
 export default function Home() {
   return (
@@ -9,7 +10,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main></main>
+      <main>
+        <Popup onAction={() => {}} />
+      </main>
 
       <footer></footer>
     </div>
