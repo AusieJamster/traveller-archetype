@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Pick and activity",
+    "answers": [
+      { "label": "Shopping", "image": "", "archetype": "Luxury" },
+      { "label": "Scuba Diving", "image": "", "archetype": "Adventurer" },
+      { "label": "Sightseeing", "image": "", "archetype": "Backpacker" },
+      {
+        "label": "Amusements and Theme parks",
+        "image": "",
+        "archetype": "Family"
+      }
+    ]
+  },
+  {
+    "question": "Favourite way to travel long distance",
+    "answers": [
+      { "label": "Plane", "image": "", "archetype": "Luxury" },
+      { "label": "Car", "image": "", "archetype": "Backpacker" },
+      { "label": "RV", "image": "", "archetype": "Family" },
+      { "label": "Hiking", "image": "", "archetype": "Adventurer" }
+    ]
+  },
+  {
+    "question": "What would you like to do today",
+    "answers": [
+      { "label": "Chill by the pool", "image": "", "archetype": "Luxury" },
+      { "label": "Visit a theme park", "image": "", "archetype": "Family" },
+      {
+        "label": "Jump out of a plane",
+        "image": "",
+        "archetype": "Adventurer"
+      },
+      { "label": "Rural Sightseeing", "image": "", "archetype": "Backpacker" }
+    ]
+  },
+  {
+    "question": "What are you doing tonight",
+    "answers": [
+      { "label": "Dancing 'til dawn", "image": "", "archetype": "Adventurer" },
+      {
+        "label": "Sipping champagne at sunset",
+        "image": "",
+        "archetype": "Luxury"
+      },
+      { "label": "Camping", "image": "", "archetype": "Backpacker" },
+      { "label": "Holy Moly", "image": "", "archetype": "Family" }
+    ]
+  },
+  {
+    "question": "Where are you having dinner",
+    "answers": [
+      { "label": "Burger Joint", "image": "", "archetype": "Family" },
+      { "label": "Fancy Restaurant", "image": "", "archetype": "Luxury" },
+      { "label": "Street food market", "image": "", "archetype": "Backpacker" },
+      { "label": "Local cuisine", "image": "", "archetype": "Adventurer" }
+    ]
+  },
+  {
+    "question": "Pick your accomodation",
+    "answers": [
+      { "label": "Five-star resort", "image": "", "archetype": "Luxury" },
+      { "label": "Tent with a view", "image": "", "archetype": "Adventurer" },
+      { "label": "Hostel", "image": "", "archetype": "Backpacker" },
+      { "label": "Family Caravan", "image": "", "archetype": "Family" }
+    ]
+  },
+  {
+    "question": "Pick dream travel destination",
+    "answers": [
+      { "label": "France", "image": "", "archetype": "Adventurer" },
+      { "label": "Mexico", "image": "", "archetype": "Backpacker" },
+      { "label": "United States", "image": "", "archetype": "Family" },
+      { "label": "Italy", "image": "", "archetype": "Luxury" }
+    ]
+  }
+]

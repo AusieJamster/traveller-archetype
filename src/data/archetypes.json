@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Adventurer",
+    "header": "Adventurers find excitement and thrill in exploration and dare to discover the unknown.",
+    "description": "The Adventurer archetype is all about freedom. They feel alive and connected when they are out in nature. It’s like they’re constantly being pulled to the outdoors or onto a journey of some kind — especially into the unknown."
+  },
+  {
+    "name": "Backpacker",
+    "header": "The backpacker tries to experience the local life as if they live it along with its inhabitants and are not into luxury holidays.",
+    "description": "The Backpacker archetype usually stay in inexpensive hotels like hostels."
+  },
+  {
+    "name": "Luxury",
+    "header": "The luxury traveller enjoys travelling with a great deal of comfort and quality, without any stress or hassle whatsoever.",
+    "description": "They also expect an elevated travel experience with minimum vexation and maximum amenities"
+  },
+  {
+    "name": "Family",
+    "header": "The family traveller look to not only build life long memories.",
+    "description": "They also break their family away from the usual routine, opening their minds to new cultures, foods and experiences."
+  }
+]
