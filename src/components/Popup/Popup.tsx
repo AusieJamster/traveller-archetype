@@ -8,7 +8,7 @@ import {
 } from "@mui/material";
 import React, { useState } from "react";
 import { onActionEvents } from "../../types";
-
+import { getArchetype } from "../../helpers/archetype";
 interface PopupProps {
   onAction: ({ type, data }: { type: string; data?: string }) => void;
 }
@@ -18,9 +18,7 @@ const Popup: React.FC<PopupProps> = ({ onAction }) => {
 
   const handleClose = () => setOpen(false);
 
-  const cardMediaStyle = {
-    
-  }
+  const cardMediaStyle = {};
 
   return (
     <Modal open={open} onClose={handleClose}>

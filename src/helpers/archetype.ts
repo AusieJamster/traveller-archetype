@@ -5,26 +5,26 @@ type Archetype = {
 };
 
 import archetypes from "../data/archetypes.json";
-import questions from "../data/questions.json";
 
 /**
  * Returns an archetype based on the questions answered in the questionnaire
- * @param answers
+ * @param answers string array of archetype types i.e. ['luxury', 'luxury', 'family', 'backpacker']
  */
-export const getArchetype = (answers: any[]): Archetype | undefined => {
+export const getArchetype = (answers: string[]): Archetype | undefined => {
   // iterate over the answers and track the values
 
-  const resultTally = archetypes.map((archetype: Archetype) => ({
-    [archetype.name]: 0,
-  }));
-
-  // iterate over answers and +1 the count of the given type
-  answers.forEach((answer) => {});
-
-  // parse the results and surface the higest value
-  const result: Archetype | undefined = archetypes.find(
-    (a) => a.name === "Luxury"
+  const resultCount = answers.reduce(
+    (acc: Record<string, number>, cur: string) => {
+      acc[cur] ? acc[cur]++ : (acc[cur] = 1);
+      return acc;
+    },
+    {}
   );
 
-  return result;
+  const winner = Object.keys(resultCount).reduce(
+    (prev: string, cur: string) =>
+      resultCount[prev] > resultCount[cur] ? prev : cur,
+    ""
+  );
+  return archetypes.find((archetype: Archetype) => archetype.name.toLowerCase() === winner);
 };
