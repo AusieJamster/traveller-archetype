@@ -1,7 +1,34 @@
 import Head from "next/head";
-import Popup from "../src/components/Popup/Popup";
+import { useState } from "react";
+import ArchetypeProfile from "../src/components/ArchetypeProfile/ArchetypeProfile";
+import Questionnaire from "../src/components/Questionnaire/Questionnaire";
+import { getArchetype } from "../src/helpers/archetype";
+import { Archetype, onActionEvents, onActionType } from "../src/types";
+import achetypes from "../src/data/archetypes.json";
+import IconButton from "../src/components/IconButton/IconButton";
+
+type CurrentPhase = "pre" | "questionnaire" | "results";
 
 export default function Home() {
+  const [archetype, setArchetype] = useState<Archetype>(achetypes[0]);
+  const [currPhase, setCurrPhase] = useState<CurrentPhase>("pre");
+
+  const onAction: onActionType = ({ type, data }) => {
+    switch (type) {
+      case onActionEvents.getAnswers:
+        const archetype = getArchetype(data);
+        if (archetype) setArchetype(archetype);
+        setCurrPhase("results");
+        break;
+      case onActionEvents.takeQuiz:
+        setCurrPhase("questionnaire");
+        break;
+
+      default:
+        break;
+    }
+  };
+
   return (
     <div>
       <Head>
@@ -11,7 +38,15 @@ export default function Home() {
       </Head>
 
       <main>
-        <Popup onAction={() => {}} />
+        {currPhase === "pre" ? (
+          <IconButton onAction={onAction} />
+        ) : currPhase === "questionnaire" ? (
+          <Questionnaire onAction={onAction} />
+        ) : currPhase === "results" ? (
+          <ArchetypeProfile onAction={onAction} archetype={archetype} />
+        ) : (
+          <></>
+        )}
       </main>
 
       <footer></footer>

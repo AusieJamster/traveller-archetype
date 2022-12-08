@@ -1,10 +1,7 @@
-type Archetype = {
-  name: string;
-  header: string;
-  description: string;
-};
+
 
 import archetypes from "../data/archetypes.json";
+import { Archetype } from "../types";
 
 /**
  * Returns an archetype based on the questions answered in the questionnaire
@@ -21,10 +18,15 @@ export const getArchetype = (answers: string[]): Archetype | undefined => {
     {}
   );
 
-  const winner = Object.keys(resultCount).reduce(
-    (prev: string, cur: string) =>
-      resultCount[prev] > resultCount[cur] ? prev : cur,
-    ""
+  const winner = Object.keys(resultCount)
+    .reduce(
+      (prev: string, cur: string) =>
+        resultCount[prev] > resultCount[cur] ? prev : cur,
+      ""
+    )
+    .toLowerCase();
+
+  return archetypes.find(
+    (archetype: Archetype) => archetype.name.toLowerCase() === winner
   );
-  return archetypes.find((archetype: Archetype) => archetype.name.toLowerCase() === winner);
 };

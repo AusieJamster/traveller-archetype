@@ -1,14 +1,6 @@
-import {
-  Button,
-  CardMedia,
-  Grid,
-  Modal,
-  Stack,
-  Typography,
-} from "@mui/material";
+import { Box, Button, CardMedia, Grid, Stack, Typography } from "@mui/material";
 import React, { useState } from "react";
 import { onActionEvents } from "../../types";
-import { getArchetype } from "../../helpers/archetype";
 interface PopupProps {
   onAction: ({ type, data }: { type: string; data?: string }) => void;
 }
@@ -16,47 +8,59 @@ interface PopupProps {
 const Popup: React.FC<PopupProps> = ({ onAction }) => {
   const [open, setOpen] = useState(true);
 
-  const handleClose = () => setOpen(false);
-
-  const cardMediaStyle = {};
-
   return (
-    <Modal open={open} onClose={handleClose}>
-      <Stack spacing={2}>
-        <Grid container>
-          <Grid item xs={6}>
-            <CardMedia
-              component="img"
-              src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe"
-            />
+    <Box onClick={() => setOpen(!open)}>
+      <Box
+        sx={{
+          border: 1,
+          width: 500,
+          opacity: open ? 1 : 0,
+          transition: "all 1s",
+          position: "fixed",
+          top: "10%",
+          left: "10%",
+          borderRadius: 5,
+        }}
+      >
+        <Stack spacing={2} margin={2}>
+          <Grid container spacing={3}>
+            <Grid item xs={6}>
+              <CardMedia
+                component="img"
+                src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe"
+              />
+            </Grid>
+            <Grid item xs={6}>
+              <CardMedia
+                component="img"
+                src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe"
+              />
+            </Grid>
+            <Grid item xs={6}>
+              <CardMedia
+                component="img"
+                src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe"
+              />
+            </Grid>
+            <Grid item xs={6}>
+              <CardMedia
+                component="img"
+                src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe"
+              />
+            </Grid>
           </Grid>
-          <Grid item xs={6}>
-            <CardMedia
-              component="img"
-              src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe"
-            />
-          </Grid>
-          <Grid item xs={6}>
-            <CardMedia
-              component="img"
-              src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe"
-            />
-          </Grid>
-          <Grid item xs={6}>
-            <CardMedia
-              component="img"
-              src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe"
-            />
-          </Grid>
-        </Grid>
-        <Typography textAlign="center" sx={{ m: 2 }}>
-          What type of traveller are you?
-        </Typography>
-        <Button onClick={() => onAction({ type: onActionEvents.takeQuiz })}>
-          Unsure? Take the quiz!
-        </Button>
-      </Stack>
-    </Modal>
+          <Typography textAlign="center" sx={{ m: 2 }} fontSize={20}>
+            What type of traveller are you?
+          </Typography>
+          <Button
+            variant="contained"
+            onClick={() => onAction({ type: onActionEvents.takeQuiz })}
+          >
+            Unsure? Take the quiz!
+          </Button>
+        </Stack>
+      </Box>
+    </Box>
   );
 };
 
