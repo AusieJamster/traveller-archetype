@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Popup from "../styles/src/components/Popup/Popup";
+import Popup from "../src/components/Popup/Popup";
 
 export default function Home() {
   return (
