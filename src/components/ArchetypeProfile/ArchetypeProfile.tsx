@@ -1,5 +1,6 @@
 import { CardMedia, Paper, Stack, Typography } from "@mui/material";
 import React from "react";
+import { generatePackages } from "../../helpers/package";
 import type { Archetype, onActionType } from "../../types";
 
 interface ArchetypeProfileProps {
@@ -11,9 +12,11 @@ const ArchetypeProfile: React.FC<ArchetypeProfileProps> = ({
   onAction,
   archetype,
 }) => {
+  const packageSelection = generatePackages(archetype);
+  console.log(packageSelection);
   return (
     <Paper
-    sx={{
+      sx={{
         m: 2,
         elevation: 12,
         width: 500,
