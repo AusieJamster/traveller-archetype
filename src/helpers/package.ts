@@ -10,10 +10,10 @@ export const generatePackages = (archetype: Archetype) => {
   });
 
   // pick 3 at random
-  const result = [];
-  for (let i = 0; i < NUM_OF_RANDOM_PACKAGES; i++) {
-    result.push(matches[Math.floor(Math.random() * matches.length)]);
+  const result = new Set();
+  while (result.size < NUM_OF_RANDOM_PACKAGES) {
+    result.add(matches[Math.floor(Math.random() * matches.length)]);
   }
 
-  return result;
+  return Array.from(result);
 };
