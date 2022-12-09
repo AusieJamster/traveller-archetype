@@ -84,7 +84,69 @@
     "policies": null,
     "covidRequirements": null,
     "highestSavings": false,
-    "tags": ["family", "luxury"]
+    "tags": ["family", "luxury"],
+    "images": [
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/46858341_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/46858341_b.jpg"
+      },
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/1ec93674_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/1ec93674_b.jpg"
+      },
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/f877cbaa_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/f877cbaa_b.jpg"
+      },
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/748829b7_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/748829b7_b.jpg"
+      },
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/b74745a7_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/b74745a7_b.jpg"
+      },
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/172beba7_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/172beba7_b.jpg"
+      },
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/783cea39_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/783cea39_b.jpg"
+      },
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/7422df9a_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/7422df9a_b.jpg"
+      },
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/2f4c4fa0_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/2f4c4fa0_b.jpg"
+      },
+      {
+        "caption": "",
+        "name": null,
+        "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/96c96964_b.jpg",
+        "url": "https://i.travelapi.com/hotels/2000000/1490000/1486400/1486309/96c96964_b.jpg"
+      }
+    ]
   },
   {
     "name": "Hilton Fiji Beach Resort and Spa",
@@ -159,7 +221,69 @@
     "policies": null,
     "covidRequirements": null,
     "highestSavings": true,
-    "tags": ["family", "luxury"]
+    "tags": ["family", "luxury"],
+    "images": [
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/3567ef2e_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/3567ef2e_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/955da840_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/955da840_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/50cf3a4a_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/50cf3a4a_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/b245d9d9_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/b245d9d9_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/7abe9e33_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/7abe9e33_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/c6d1246d_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/c6d1246d_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/5a4950f9_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/5a4950f9_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/2fd43a57_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/2fd43a57_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/1d317878_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/1d317878_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/5115140f_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1460000/1453700/1453687/5115140f_b.jpg"
+      }
+  ]
   },
   {
     "name": "Sheraton Fiji Golf & Beach Resort",
@@ -250,7 +374,69 @@
     "policies": null,
     "covidRequirements": null,
     "highestSavings": false,
-    "tags": ["family", "luxury"]
+    "tags": ["family", "luxury"],
+    "images": [
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/w4000h2662x0y0-ef5a59da_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/w4000h2662x0y0-ef5a59da_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/d6b58c0f_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/d6b58c0f_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/01abc10a_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/01abc10a_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/15072162_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/15072162_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/d3ba00d4_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/d3ba00d4_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/21082731_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/21082731_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/17776ada_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/17776ada_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/3d92f5ed_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/3d92f5ed_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/91486d3e_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/91486d3e_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/w4000h2663x0y0-1eb1ed9c_b.jpg",
+          "url": "https://i.travelapi.com/hotels/1000000/20000/13900/13884/w4000h2663x0y0-1eb1ed9c_b.jpg"
+      }
+  ]
   },
   {
     "name": "DoubleTree Resort by Hilton Hotel Fiji - Sonaisali Island",
@@ -320,7 +506,69 @@
     "policies": null,
     "covidRequirements": null,
     "highestSavings": false,
-    "tags": ["family", "luxury"]
+    "tags": ["family", "luxury"],
+    "images": [
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/134e0841_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/134e0841_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/70fcc571_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/70fcc571_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/849af276_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/849af276_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/00f081ec_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/00f081ec_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/3ae0a364_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/3ae0a364_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/3f3e7eaf_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/3f3e7eaf_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/0a57314a_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/0a57314a_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/641745a9_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/641745a9_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/1c2fdfda_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/1c2fdfda_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/2e490e48_b.jpg",
+          "url": "https://i.travelapi.com/hotels/2000000/1590000/1584800/1584731/2e490e48_b.jpg"
+      }
+  ]
   },
   {
     "name": "Ramada Suites by Wyndham Wailoaloa Beach Fiji",
@@ -411,7 +659,69 @@
     "policies": null,
     "covidRequirements": null,
     "highestSavings": false,
-    "tags": ["family", "luxury"]
+    "tags": ["family", "luxury"],
+    "images": [
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/bc70e88b_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/bc70e88b_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/7b100f08_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/7b100f08_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/ffe135f7_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/ffe135f7_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/831f627c_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/831f627c_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/5bbdb865_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/5bbdb865_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/a7172a23_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/a7172a23_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/f187f779_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/f187f779_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/b3617bde_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/b3617bde_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/0260126d_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/0260126d_b.jpg"
+      },
+      {
+          "caption": "",
+          "name": null,
+          "thumbnailUrl": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/57ea9378_b.jpg",
+          "url": "https://i.travelapi.com/hotels/16000000/15890000/15887200/15887148/57ea9378_b.jpg"
+      }
+  ]
   },
   {
     "name": "Sofitel LA at Beverly Hills",
