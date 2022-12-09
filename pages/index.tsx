@@ -6,12 +6,15 @@ import { getArchetype } from "../src/helpers/archetype";
 import { Archetype, onActionEvents, onActionType } from "../src/types";
 import achetypes from "../src/data/archetypes.json";
 import IconButton from "../src/components/IconButton/IconButton";
+import Popup from "../src/components/Popup/Popup";
+import ResultsPageBanner from "../src/components/ResultsPageBanner/ResultsPageBanner";
+import { Stack } from "@mui/material";
 
 type CurrentPhase = "pre" | "questionnaire" | "results";
 
 export default function Home() {
   const [archetype, setArchetype] = useState<Archetype>(achetypes[0]);
-  const [currPhase, setCurrPhase] = useState<CurrentPhase>("pre");
+  const [currPhase, setCurrPhase] = useState<CurrentPhase>("questionnaire");
 
   const onAction: onActionType = ({ type, data }) => {
     switch (type) {
@@ -39,7 +42,11 @@ export default function Home() {
 
       <main>
         {currPhase === "pre" ? (
-          <IconButton onAction={onAction} />
+          <Stack direction="column" spacing={10} alignItems="center">
+            <Popup onAction={onAction} />
+            <ResultsPageBanner onAction={onAction} />
+            <IconButton onAction={onAction} />
+          </Stack>
         ) : currPhase === "questionnaire" ? (
           <Questionnaire onAction={onAction} />
         ) : currPhase === "results" ? (

@@ -13,6 +13,7 @@ const ResultsPageBanner: React.FC<ResultsPageBannerProps> = ({ onAction }) => {
         height: 100,
         width: "100%",
         borderRadius: 6,
+        maxWidth: 600,
       }}
       variant="contained"
       onClick={() => onAction({ type: onActionEvents.takeQuiz })}
