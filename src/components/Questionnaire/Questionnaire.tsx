@@ -1,4 +1,4 @@
-import { Box, ButtonBase, Grid, Stack, Typography } from "@mui/material";
+import { Box, ButtonBase, Grid, Paper, Stack, Typography } from "@mui/material";
 import React, { useState } from "react";
 import { onActionEvents, onActionType } from "../../types";
 import questions from "../../data/questions.json";
@@ -26,9 +26,10 @@ const Questionnaire: React.FC<QuestionnaireProps> = ({ onAction }) => {
   };
 
   return (
-    <Box
+    <Paper
       sx={{
-        border: 1,
+        m: 2,
+        elevation: 12,
         width: 500,
         borderRadius: 5,
         padding: 2,
@@ -52,16 +53,25 @@ const Questionnaire: React.FC<QuestionnaireProps> = ({ onAction }) => {
                   backgroundSize: "cover",
                   backgroundImage: `url(${answer.image})`,
                   backgroundRepeat: "no-repeat",
+                  alignItems: "end !important",
                 }}
                 disabled={disable}
               >
-                <Typography>{answer.label}</Typography>
+                <Box
+                  sx={{
+                    backgroundColor: "rgba(0, 0, 0, 0.8)",
+                    width: "100%",
+                    padding: 1,
+                  }}
+                >
+                  <Typography color="white">{answer.label}</Typography>
+                </Box>
               </ButtonBase>
             </Grid>
           ))}
         </Grid>
       </Stack>
-    </Box>
+    </Paper>
   );
 };
 

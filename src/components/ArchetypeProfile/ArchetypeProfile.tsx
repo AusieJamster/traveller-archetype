@@ -1,5 +1,5 @@
-import { Box, CardMedia, Stack, Typography } from "@mui/material";
-import React, { useState } from "react";
+import { CardMedia, Paper, Stack, Typography } from "@mui/material";
+import React from "react";
 import type { Archetype, onActionType } from "../../types";
 
 interface ArchetypeProfileProps {
@@ -12,9 +12,10 @@ const ArchetypeProfile: React.FC<ArchetypeProfileProps> = ({
   archetype,
 }) => {
   return (
-    <Box
-      sx={{
-        border: 1,
+    <Paper
+    sx={{
+        m: 2,
+        elevation: 12,
         width: 500,
         borderRadius: 5,
         padding: 2,
@@ -35,7 +36,7 @@ const ArchetypeProfile: React.FC<ArchetypeProfileProps> = ({
         <Typography variant="body2">{archetype.header}</Typography>
         <Typography>{archetype.description}</Typography>
       </Stack>
-    </Box>
+    </Paper>
   );
 };
 
