@@ -1,0 +1,2096 @@
+[
+  {
+    "name": "Sofitel Fiji Resort And Spa",
+    "hotelId": "1486309",
+    "hotelDetailIdentifier": "1486309|EPSFC",
+    "savingIdentifier": "1486309|EPSFC",
+    "checkinDateTime": "2023-01-10T14:00",
+    "checkoutDateTime": "2023-01-17T11:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Superior Room, 2 Queen Beds",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>2 Queen Beds</strong></p><p>376-sq-foot room, furnished balcony/patio with partial ocean views </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 55-inch LED TV with premium channels and pay movies</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), electric kettle, and 24-hour room service</p><p><b>Sleep</b> - Premium bedding, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, bathrobes, and a shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, desk, and phone</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available</p><p>Smoking And Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "200235697|234012267|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQEITJUAVQAGAlVTgVTc2d1M3dkHQcABVMFAVRSFFNWBF4bBgcFAh5XUAcDGltQBg1WUlAMBlBQBj5BAQsECA9UAF8VA1ZXUhpVC1sAGQUABw4fBVwFAFQCUwpWCgUGVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtVBfszOFRDY0BQVwtGdwdQRsMwV29IFkYYQFRAWBQzFlRRDCdUUREVEUQLTQEUAxowQVxWWkQZG0hFA1tMWEcaFg4CGW-cZDLXYzBWUa8xZlcLWwYaVQODOTbQZTPDNWG8ZDT1ZDb-OmfENjXJMBFbVFcGUwQBVBhUAwRcSANXAQ8fB1VVUxVTAwMHVgEBCVdRBFqLNnsBAFMDHgZWSAMAMgRVAwQIXwEASgoEVFYFAVoIUGKOYzYTUSiT3zU|EPSFC",
+      "connectorName": "expedia",
+      "savings": 48.43,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 5804.1,
+        "tax": 0,
+        "netPrice": 5804.1
+      },
+      "originalPrice": null,
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-11-30T04:00:00.000+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a fire extinguisher, a smoke detector, a security system, and a first aid kit</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>Pool access available from 7:00 AM to 7:00 PM.</li> <li>One child 12 years old or younger stays free when occupying the parent or guardian's room, using existing bedding. </li><li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>No pets and no service animals are allowed at this property. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>The property is cleaned and disinfected using an electrostatic sprayer; disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer; cashless payment methods are available for all transactions; masks are required in public areas.</li><li>Contactless check-in and contactless check-out are available.</li><li>Enhanced food service safety measures are in place.</li><li>Each guestroom is kept vacant for a minimum of 24 hours between bookings.</li><li>This property affirms that it follows the cleaning and disinfection practices of ALLSAFE (Accor Hotels).</li><li>This property affirms that it adheres to the cleaning and disinfection practices of Safe Travels (WTTC - Global).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 4387.02,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-11-29T15:00:00",
+          "end": "2023-01-10T06:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: FJD 50 per person (approximately)</li>     <li>Airport shuttle fee: FJD 86 per vehicle (one way)</li>             <li>In-room microwave fee: FJD 20 per night</li><li>Rollaway bed fee: FJD 150 per night</li>          <li>Credit card charges are subject to a surcharge of 3 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free self parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Free valet parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free breakfast",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 985,
+      "medianUserRating": 4,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["family", "luxury"]
+  },
+  {
+    "name": "Hilton Fiji Beach Resort and Spa",
+    "hotelId": "1453687",
+    "hotelDetailIdentifier": "1453687|EPSFC",
+    "savingIdentifier": "1453687|EPSFC",
+    "checkinDateTime": "2023-01-10T15:00",
+    "checkoutDateTime": "2023-01-17T11:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Room, 1 King Bed, Beachfront",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>431-sq-foot room, furnished balcony/patio with beach and ocean views </p><br/><p><b>Internet</b> - WiFi </p><p><b>Entertainment</b> - LCD television, premium channels, and MP3 dock</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), 24-hour room service, and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower, bathrobes, and slippers</p><p><b>Practical</b> - Access to in-room child care, laptop-compatible safe, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p>Non-Smoking</p>",
+      "roomDetailIdentifier": "121196|224063785|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQEITJUAVQAGAlVTgVTc2d1M3dkHQcABVMFAVRSFFNWBF4bBgcFAh5XUAcDGltQBg1WUlAMBlBQBj5BAQsECA9UAF8VA1ZXUhpVC1sAGQUABw4fBVwFAFQCUwpWCgUGVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjUVUHV00NVtE1Z9liPMQ5Zr8xNfM2Z61nZJdkOc9mEAwAAwJWB14ASwELAFFMBQABXRpUDgBWSFRRUQhRBVYOVlBXUtA3fwoJBlceAVMcAw8wVwACUwdcDAcXVwQAUQ0FW1sFatkyZ04Hb7Yxqw|EPSFC",
+      "connectorName": "expedia",
+      "savings": 522.45,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 5493.63,
+        "tax": 0,
+        "netPrice": 5493.63
+      },
+      "originalPrice": null,
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-12-08T12:51:56.191+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul> <ul>  <li>Guests who wish to ensure a stay in a ground floor room must contact the hotel in advance.</li>  </ul>. <ul>  <li>Reservations are required for massage services and spa treatments. Reservations can be made by contacting the resort prior to arrival, using the contact information on the booking confirmation. </li><li>Children 12 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Guests are provided with hand sanitizer.</li><li>Contactless check-out is available.</li><li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 4076.55,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-12-07T23:51:56.191",
+          "end": "2023-01-10T10:59:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: FJD 50.00 per person (approximately)</li> <li>Fee for in-room wireless Internet: FJD 9.95 per 24-hour period (rates may vary)</li>  <li>Fee for wireless Internet in public areas: FJD 5.25 (rates may vary)</li> <li>Fee for wired Internet in public areas: FJD 5.25 (rates may vary)</li>              <li>Rollaway bed fee: FJD 60.0 per night</li>          <li>Credit card charges are subject to a surcharge of 3 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free self parking",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 953,
+      "medianUserRating": 4.2,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": true,
+    "tags": ["family", "luxury"]
+  },
+  {
+    "name": "Sheraton Fiji Golf & Beach Resort",
+    "hotelId": "13884",
+    "hotelDetailIdentifier": "13884|EPSFC",
+    "savingIdentifier": "13884|EPSFC",
+    "checkinDateTime": "2023-01-10T15:00",
+    "checkoutDateTime": "2023-01-17T11:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Studio, 1 King Bed, Non Smoking, Oceanfront",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>Balcony/patio with ocean views</p><br/><p><b>Layout</b> - Bedroom </p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 42-inch LED TV with premium channels and pay movies</p><p><b>Food & Drink</b> - Refrigerator, coffee/tea maker,  24-hour room service, and free bottled water</p><p><b>Sleep</b> - Premium bedding, a pillow menu, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, bathrobes, and a separate bathtub and shower with a rainfall showerhead</p><p><b>Practical</b> - Laptop-compatible safe, iron/ironing board, and desk; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Low-height electrical outlets in bathroom, grab bar in bathtub, closed-captioned TV, visual fire alarm, height-adjustable showerhead, lever door handles, low-height counter and sink, raised toilet seat, and low-height door lock</p><p>Non-Smoking</p><p>Room is accessed via exterior corridors </p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "211204104|381491410|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQEITJUAVQAGAlVTgVTc2d1M3dkHQcABVMFAVRSFFNWBF4bBgcFAh5XUAcDGltQBg1WUlAMBlBQBj5BAQsECA9UAF8VA1ZXUhpVC1sAGQUABw4fBVwFAFQCUwpWCgUGVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjUVwJWE0KU9E1ZNliPMQ5Zr8xNfM2Z61nZJdkOc9mEAwAAwJWB14ASwELAFFMBQABXRpUDgBWSFRRUQhRBVYOVlBXUtA3fwoJBlceAVMcAw8wVwACUwdcDAcXVwQAUQ0FW1sFatkyZ04HzFf33w|EPSFC",
+      "connectorName": "expedia",
+      "savings": -0.21,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 6416.28,
+        "tax": 0,
+        "netPrice": 6416.28
+      },
+      "originalPrice": null,
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-03T23:59:00.000+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Special cancellation policies or charges may apply for group reservations (more than 8 rooms for the same property / stay dates)</li><li>Safety features at this property include a carbon monoxide detector, a fire extinguisher, a smoke detector, a security system, and a first aid kit</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>Up to 2 children 12 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>No pets and no service animals are allowed at this property. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>The property is cleaned and disinfected using an electrostatic sprayer; disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer; cashless payment methods are available for all transactions; contactless room service is available; masks are required in public areas.</li><li>Enhanced food service safety measures are in place.</li><li>Individually-wrapped food options are available for breakfast, lunch, and dinner, and also through room service.</li><li>At check-in, guests must provide either a negative PCR COVID-19 test result or a record of full COVID-19 vaccination.</li><li>The negative COVID-19 test result requirement applies to all guests aged 12 and up, and test must have been administered no more than 72 hours prior to check-in. COVID-19 vaccination record requirement applies to all guests aged 18 and up; guests must have received complete vaccination at least 14 days prior to check-in.</li><li>This property affirms that it follows the cleaning and disinfection practices of Commitment to Clean (Marriott).</li><li>This property affirms that it adheres to the cleaning and disinfection practices of Safe Travels (WTTC - Global).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 4999.2,
+          "deadLineTimestamp": "2023-01-03T10:59:00",
+          "description": "Cancellations after 3rd Jan 2023 10:59 a.m. incur a $4999.20 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-03T10:59:00",
+          "end": "2023-01-10T10:59:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: FJD 47.50 per person (approximately)</li>             <li>Early check-in fee: FJD 70 (subject to availability)</li>  <li>Late check-out fee: FJD 40 (subject to availability)</li>   <li>Rollaway bed fee: FJD 80.0 per night</li>          <li>Credit card charges are subject to a surcharge of 3 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free self parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free high-speed internet",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Breakfast for 2",
+          "isPrimary": false
+        },
+        {
+          "description": "Free valet parking",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 957,
+      "medianUserRating": 4.2,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["family", "luxury"]
+  },
+  {
+    "name": "DoubleTree Resort by Hilton Hotel Fiji - Sonaisali Island",
+    "hotelId": "1584731",
+    "hotelDetailIdentifier": "1584731|EPSFC",
+    "savingIdentifier": "1584731|EPSFC",
+    "checkinDateTime": "2023-01-10T15:00",
+    "checkoutDateTime": "2023-01-17T11:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Premium Room, 1 King Bed, Ocean View, Beachfront (BURE)",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>495-sq-foot room, furnished balcony/patio with sea views </p><br/><p><b>Relax</b> - In-room massage available</p><p><b>Internet</b> - WiFi and wired Internet access </p><p><b>Entertainment</b> - 47-inch LCD TV, premium channels, and DVD player</p><p><b>Food & Drink</b> - Refrigerator, minibar (fees may apply), room service (limited hours), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower, bathrobes, and free toiletries</p><p><b>Practical</b> - Sofa bed, laptop-compatible safe, and phone</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Grab bar in bathtub</p><p>Non-Smoking</p><p>Room is accessed via exterior corridors </p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "200901995|234070292|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQEITJUAVQAGAlVTgVTc2d1M3dkHQcABVMFAVRSFFNWBF4bBgcFAh5XUAcDGltQBg1WUlAMBlBQBj5BAQsECA9UAF8VA1ZXUhpVC1sAGQUABw4fBVwFAFQCUwpWCgUGVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjV1wBV00AWtE1Z9liPMQ5Zr8xNfM2Z61nZJdkOc9mEAwAAwJWB14ASwELAFFMBQABXRpUDgBWSFRRUQhRBVYOVlBXUtA3fwoJBlceAVMcAw8wVwACUwdcDAcXVwQAUQ0FW1sFatkyZ04HWRA-FQ|EPSFC",
+      "connectorName": "expedia",
+      "savings": 82.33,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 4333.97,
+        "tax": 0,
+        "netPrice": 4333.97
+      },
+      "originalPrice": null,
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-12-08T12:51:56.190+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>Children 12 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Guests are provided with hand sanitizer.</li><li>Contactless check-out is available.</li><li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 2916.89,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-12-07T23:51:56.19",
+          "end": "2023-01-10T10:59:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: FJD 45 per person (approximately)</li> <li>Fee for in-room wireless Internet: FJD 9.95 per day (rates may vary)</li> <li>Fee for in-room wired Internet: FJD 9.95 (rates may vary)</li>                          <li>Credit card charges are subject to a surcharge of 3 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 973,
+      "medianUserRating": 4.3,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["family", "luxury"]
+  },
+  {
+    "name": "Ramada Suites by Wyndham Wailoaloa Beach Fiji",
+    "hotelId": "15887148",
+    "hotelDetailIdentifier": "15887148|EPSFC",
+    "savingIdentifier": "15887148|EPSFC",
+    "checkinDateTime": "2023-01-10T14:00",
+    "checkoutDateTime": "2023-01-17T11:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "King Studio Suite",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>377-sq-foot soundproofed room, balcony with mountain and partial ocean views </p><br/><p><b>Layout</b> - Dining area and sitting area</p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 42-inch flat-screen TV, premium channels, and MP3 dock</p><p><b>Food & Drink</b> - Kitchenette with refrigerator, stovetop, microwave, and dishwasher</p><p><b>Sleep</b> - Pillowtop bed, premium bedding, a down duvet, a pillow menu, and blackout drapes/curtains </p><p><b>Bathroom</b> - Private bathroom, bathrobes, and a shower with a rainfall showerhead</p><p><b>Practical</b> - Washer/dryer, safe, and iron/ironing board</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Bathroom grab bars, visual fire alarm, and wheelchair accessible</p><p><b>Need to Know</b> - No cribs (infant beds) available</p><p>Non-Smoking</p><p>Room is accessed via exterior corridors </p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "201638968|211086986|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQEITJUAVQAGAlVTgVTc2d1M3dkHQcABVMFAVRSFFNWBF4bBgcFAh5XUAcDGltQBg1WUlAMBlBQBj5BAQsECA9UAF8VA1ZXUhpVC1sAGQUABw4fBVwFAFQCUwpWCgUGVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjV1AAUk0LUNE1ZNliPMQ5Zr8xNfM2Z61nZJdkOc9mEAwAAwJWB14ASwELAFFMBQABXRpUDgBWSFRRUQhRBVYOVlBXUtA3fwoJBlceAVMcAw8wVwACUwdcDAcXVwQAUQ0FW1sFatkyZ04Hz49row|EPSFC",
+      "connectorName": "expedia",
+      "savings": 294.47,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 3920.41,
+        "tax": 0,
+        "netPrice": 3920.41
+      },
+      "originalPrice": {
+        "total": 4327.92,
+        "tax": 0,
+        "netPrice": 4327.92
+      },
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-11-30T03:00:00.000+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>This property reserves the right to pre-authorize the guest's credit card prior to arrival.</li><li>Noise-free guestrooms cannot be guaranteed</li><li>Safety features at this property include a fire extinguisher and a smoke detector</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>Reservations are required for golf tee times, massage services, and spa treatments. Reservations can be made by contacting the aparthotel prior to arrival, using the contact information on the booking confirmation. </li><li>Children 14 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>Only registered guests are allowed in the guestrooms. </li> <li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>Construction is underway at a neighboring building and there may be noise disturbance from the construction work. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>The property is professionally cleaned; disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; guests are provided with hand sanitizer.</li><li>At check-in, guests must provide a record of full COVID-19 vaccination.</li><li>The COVID-19 vaccination record requirement applies to all guests aged 16 and up; guests must have received complete COVID-19 vaccination at least 15 days prior to check-in.</li><li>On-site antigen/rapid COVID-19 testing is available for a FJD 52 fee; reservations are required for on-site testing.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of Safe Travels (WTTC - Global).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 2503.33,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-11-29T14:00:00",
+          "end": "2023-01-10T05:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Deposit: FJD 250 per stay</li></ul> <p>We have included all charges provided to us by the property. </p> <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Breakfast fee: between FJD 26 and FJD 38 for adults, FJD 16 and FJD 22 for children (approximately)</li>                            <li>Credit card charges are subject to a surcharge of 3.5 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free self parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Free welcome drink",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 288,
+      "medianUserRating": 4.3,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["family", "luxury"]
+  },
+  {
+    "name": "Sofitel LA at Beverly Hills",
+    "hotelId": "17597",
+    "hotelDetailIdentifier": "17597|EPSFC",
+    "savingIdentifier": "17597|EPSFC",
+    "checkinDateTime": "2023-01-17T15:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Superior Double Room, 2 Double Beds, View (Beverly Boulevard View)",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>2 Double Beds</strong></p><p>323 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - iPod dock and premium channels with pay movies</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and room service (limited hours)</p><p><b>Sleep</b> - Premium bedding, a down duvet, a pillow menu, blackout drapes/curtains, and turndown service </p><p><b>Bathroom</b> - Private bathroom, shower, bathrobes, and slippers</p><p><b>Practical</b> - Day bed, safe, and free newspaper; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Eco-friendly</b> - Recycling bin</p><p>Non-Smoking, pet friendly</p><p>Room/bed type depends on availability at check-in </p>",
+      "roomDetailIdentifier": "321283|975719|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVZWU1ZRV1FXFAcMB1QbBgcHUh4OBAcAGgQFAQwMBQANUAJUVT5BAwhUBVMDC1YVVQZUBhpVAlZZGV0AAlsfBQFTAFEEBAhTUFpQVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtXAPszOVRDdlpAUAkDFSBRURKTZxtoTxAVSUEHQAxAJURYDidUUREVEUQLTQEUAxonQVVfFkoXSExRDEFRRUpBDgZNOZo1ZIFkYABQr2Q3U1UIVx8CVNFiOdw5YMcyNus2Z6VnZ69kOsVmNZ5hFlACAVIEUQIJSFFTBQcVUQAHWRoKUlBaGgtQCVIDVQNWBgdUB4o7KlcDAlMcAgVJVQpsVgZcCQUDVAMYUg4CW1UBAFYEP4I2Y0JW8O1CFg|EPSFC",
+      "connectorName": "expedia",
+      "savings": 653.34,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 7022.85,
+        "tax": 0,
+        "netPrice": 7022.85
+      },
+      "originalPrice": {
+        "total": 8288.03,
+        "tax": 0,
+        "netPrice": 8288.03
+      },
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-16T16:00:00.000-08:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a carbon monoxide detector, a fire extinguisher, a smoke detector, a security system, a first aid kit, and window guards</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul>. <ul>  <li>Pool access available from 6 AM to 9 PM.</li><li>Reservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. </li><li>Up to 3 children 11 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Personal protective equipment, including masks and gloves, will be available to guests.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; a shield is in place between staff and guests in main contact areas; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer.</li><li>Contactless check-out is available.</li><li>Individually-wrapped food options are available for breakfast, lunch, and dinner.</li><li>Each guestroom is kept vacant for a minimum of 48 hours between bookings.</li><li>This property affirms that it follows the cleaning and disinfection practices of ALLSAFE (Accor Hotels).</li><li>This property affirms that it adheres to the cleaning and disinfection practices of SafeStay (AHLA - USA).</li>\n<li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 2604.61,
+          "deadLineTimestamp": "2023-01-17T00:00:00",
+          "description": "Cancellations after 17th Jan 2023 12:00 a.m. incur a $2604.61 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-17T00:00:00",
+          "end": "2023-01-18T00:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Resort fee: USD 35.42 per accommodation, per night</li></ul> The resort fee includes:<ul><li>Internet access</li><li>Newspaper</li><li>Phone calls</li><li>Additional inclusions</li></ul> <p>We have included all charges provided to us by the property. </p> <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Breakfast fee: between USD 12 and USD 99 per person (approximately)</li>         <li>Valet parking fee: USD 55 per night</li>     <li>Early check-in is available for a fee (subject to availability)</li>  <li>Late check-out is available for a fee (subject to availability)</li>   <li>Rollaway bed fee: USD 40.0 per night</li>            </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 922,
+      "medianUserRating": 4.1,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["family", "adventurer"]
+  },
+  {
+    "name": "1 Hotel West Hollywood",
+    "hotelId": "35872776",
+    "hotelDetailIdentifier": "35872776|EPSFC",
+    "savingIdentifier": "35872776|EPSFC",
+    "checkinDateTime": "2023-01-17T16:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "King",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>305 sq feet </p><br/><p><b>Relax</b> - In-room massage available</p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 50-inch Smart TV with premium channels and pay movies</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and 24-hour room service</p><p><b>Sleep</b> - Pillowtop bed, premium bedding, a down duvet, blackout drapes/curtains, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, bathtub or shower (deep soaking bathtub available in some rooms)</p><p><b>Practical</b> - Safe, free newspaper, and iron/ironing board; rollaway/extra beds available on request</p><p><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning</p><p><b>Accessibility</b> - Braille signage and wheelchair accessible</p><p><b>Eco-friendly</b> - Recycling bin</p><p>Non-Smoking, pet friendly</p>",
+      "roomDetailIdentifier": "216642023|264180061|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVZWU1ZRV1FXFAcMB1QbBgcHUh4OBAcAGgQFAQwMBQANUAJUVT5BAwhUBVMDC1YVVQZUBhpVAlZZGV0AAlsfBQFTAFEEBAhTUFpQVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjUFEBUE0NW9E1ZNliPMQ5Zr8xNfM2Z61nZJdkOc9mEFECBAFWAFABS1ALUVNMBVYJBBoODwQKSFBWDg9QBlJTVVFTVtA3fwoJBlceAVMcAw4wVQMCVgJcCAYXUwIAXQ4FUlYEatkyZ04HzABQCA|EPSFC",
+      "connectorName": "expedia",
+      "savings": 121.92,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 9829.82,
+        "tax": 0,
+        "netPrice": 9829.82
+      },
+      "originalPrice": {
+        "total": 12247.34,
+        "tax": 0,
+        "netPrice": 12247.34
+      },
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-12-06T20:00:00.000-08:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>This property reserves the right to pre-authorize the guest's credit card prior to arrival.</li><li>Safety features at this property include a carbon monoxide detector, a fire extinguisher, and a smoke detector</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>Pool access available from 9:00 AM to 7:00 PM.</li><li>Up to 3 children 12 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>Only registered guests are allowed in the guestrooms. </li> <li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Personal protective equipment, including masks and gloves, will be available to guests.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; a shield is in place between staff and guests in main contact areas; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer.</li><li>Contactless check-in and contactless check-out are available.</li><li>Individually-wrapped food options are available for breakfast, lunch, and dinner.</li><li>Each guestroom is kept vacant for a minimum of 24 hours between bookings.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of SafeStay (AHLA - USA).</li>\n<li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 5411.58,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-12-07T04:00:00",
+          "end": "2023-01-17T19:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Deposit: USD 150 per night</li><li>Resort fee: USD 40.85 per accommodation, per night</li></ul> <p>We have included all charges provided to us by the property. </p> <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Breakfast fee: between USD 15 and USD 50 for adults, USD 15 and USD 50 for children (approximately)</li>        <li>Valet parking fee: USD 55 per night (in/out privileges)</li>     <li>Early check-in is available for a fee (subject to availability)</li>  <li>Late check-out is available for a fee (subject to availability)</li>   <li>Rollaway bed fee: USD 70.0 per night</li>            </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free Internet",
+          "isPrimary": true
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 464,
+      "medianUserRating": 4.3,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["family", "adventurer"]
+  },
+  {
+    "name": "The Peninsula Beverly Hills",
+    "hotelId": "17768",
+    "hotelDetailIdentifier": "17768|EPSFC",
+    "savingIdentifier": "17768|EPSFC",
+    "checkinDateTime": "2023-01-17T10:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Superior Room, 1 King Bed",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>484-sq-foot room with city views </p><br/><p><b>Relax</b> - In-room massage available</p><p><b>Internet</b> - Free WiFi and wired Internet access</p><p><b>Entertainment</b> - 42-inch LCD TV with premium channels, pay movies, iPod dock</p><p><b>Food & Drink</b> - 24-hour room service, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Pillowtop bed, Frette Italian linens, a down duvet, blackout drapes/curtains, and turndown service </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub and separate shower</p><p><b>Practical</b> - Safe, free newspaper, and desk; free rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "201316416|222035690|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVZWU1ZRV1FXFAcMB1QbBgcHUh4OBAcAGgQFAQwMBQANUAJUVT5BAwhUBVMDC1YVVQZUBhpVAlZZGV0AAlsfBQFTAFEEBAhTUFpQVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNsVFUIUFEWWwPUZDCLOTDIZTW7NmKkZDT9ZDXGOmTONhAGUwNXAlEHVhldVwEHHFUPVFYbAAABXU5RAwFTBFMABwJXUQSHYyYLBFcBHVADHgddMQMIXAZSAwAOSwIAUgECU1MFBDmKZzpCUtc6NZg|EPSFC",
+      "connectorName": "expedia",
+      "savings": 1112.8,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 15231.06,
+        "tax": 0,
+        "netPrice": 15231.06
+      },
+      "originalPrice": {
+        "total": 14658.37,
+        "tax": 0,
+        "netPrice": 14658.37
+      },
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-16T11:59:00.000-08:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>Children 11 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>Parking height restrictions apply. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Personal protective equipment, including masks and gloves, will be available to guests.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer.</li><li>Contactless check-in and contactless check-out are available.</li><li>Individually-wrapped food options are available for breakfast, lunch, and dinner, and also through room service.</li><li>Each guestroom is kept vacant for a minimum of 24 hours between bookings.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of SafeStay (AHLA - USA).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 182.73,
+          "deadLineTimestamp": "2023-01-16T19:59:00",
+          "description": "Cancellations after 16th Jan 2023 07:59 p.m. incur a $182.73 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-16T19:59:00",
+          "end": "2023-01-17T19:59:00",
+          "amount": null,
+          "percent": null,
+          "nights": "1",
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>2 percent tourism fee will be charged</li></ul> <p>We have included all charges provided to us by the property. </p> <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Breakfast fee: between USD 35 and USD 300 per person (approximately)</li>      <li>Airport shuttle fee: USD 140 per vehicle (roundtrip)</li>   <li>Valet parking fee: USD 60.00 per night (in/out privileges)</li>   <li>Pet deposit: USD 150 per stay</li> <li>Pet fee: USD 150 per accommodation, per stay</li><li>Service animals are exempt from fees</li>                  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 435,
+      "medianUserRating": 4.8,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["family", "adventurer"]
+  },
+  {
+    "name": "SLS Hotel, a Luxury Collection Hotel, Beverly Hills",
+    "hotelId": "11751",
+    "hotelDetailIdentifier": "11751|EPSFC",
+    "savingIdentifier": "11751|EPSFC",
+    "checkinDateTime": "2023-01-17T16:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Superior Room, 1 King Bed, Non Smoking",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>402 sq feet </p><br/><p><b>Internet</b> - WiFi </p><p><b>Entertainment</b> - 55-inch Smart TV with premium channels, pay movies, DVD player</p><p><b>Food & Drink</b> - 24-hour room service, minibar (fees may apply), free bottled water, and microwave (on request)</p><p><b>Sleep</b> - Pillowtop bed, premium bedding, blackout drapes/curtains, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, bathtub or shower, bathrobes, and slippers</p><p><b>Practical</b> - Safe, free newspaper, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Wheelchair accessible, height-adjustable showerhead, low-height electrical outlets in bathroom, visual fire alarm, closed-captioned TV, grab bar near toilet, low-height view port in door, lever door handles, and doorbell and phone notification</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "211504935|230269723|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVZWU1ZRV1FXFAcMB1QbBgcHUh4OBAcAGgQFAQwMBQANUAJUVT5BAwhUBVMDC1YVVQZUBhpVAlZZGV0AAlsfBQFTAFEEBAhTUFpQVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjVlIEUU0KW9E1YdliPMQ5Zr8xNfM2Z61nZJdkOc9mEFECBAFWAFABS1ALUVNMBVYJBBoODwQKSFBWDg9QBlJTVVFTVtA3fwoJBlceAVMcAw4wVQMCVgJcCAYXUwIAXQ4FUlYEatkyZ04HaO5ekg|EPSFC",
+      "connectorName": "expedia",
+      "savings": 122.83,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 8158.52,
+        "tax": 0,
+        "netPrice": 8158.52
+      },
+      "originalPrice": null,
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-12-07T03:00:00.000-08:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul>. <ul>  <li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property.</li><li>Social distancing measures are in place and guests are provided with hand sanitizer.</li><li>This property affirms that it follows the cleaning and disinfection practices of Commitment to Clean (Marriott).</li><li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 3740.28,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-12-07T11:00:00",
+          "end": "2023-01-18T02:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Breakfast fee: between USD 35 and USD 65 per person (approximately)</li>  <li>Fee for in-room wireless Internet: USD 14.95 per night (rates may vary)</li>       <li>Valet parking fee: USD 60 per night (in/out privileges)</li>   <li>Pet fee: USD 150 per pet, per stay</li><li>Service animals are exempt from fees</li>   <li>Late check-out is available for a fee (subject to availability)</li>   <li>Rollaway bed fee: USD 25.0 per night</li>            </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 989,
+      "medianUserRating": 4.2,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["family", "adventurer"]
+  },
+  {
+    "name": "The Hoxton Downtown LA",
+    "hotelId": "36712437",
+    "hotelDetailIdentifier": "36712437|EPSFC",
+    "savingIdentifier": "36712437|EPSFC",
+    "checkinDateTime": "2023-01-17T14:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Cosy",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 Queen Bed</strong></p><p>226 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 43-inch LED TV</p><p><b>Food & Drink</b> - Electric kettle, minibar (fees may apply), room service (limited hours), and free bottled water</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, slippers, and a shower with a rainfall showerhead</p><p><b>Practical</b> - Free international calls, safe, and iron/ironing board (on request)</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Wheelchair accessible, braille signage, wheelchair-width doorways, portable shower seat, closed-captioned TV, low-height door lock, visual fire alarm, lever door handles, and low-height view port in door</p><p><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available</p><p>Non-Smoking, pet friendly</p><p>Room/bed type depends on availability at check-in </p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "218165219|274357454|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVZWU1ZRV1FXFAcMB1QbBgcHUh4OBAcAGgQFAQwMBQANUAJUVT5BAwhUBVMDC1YVVQZUBhpVAlZZGV0AAlsfBQFTAFEEBAhTUFpQVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtQBfszP1dDY0BQVwtGdwdQl2AAPU8RQEsRVRNYQGcXBlRaIABVFx8bQF4YUkYMG2kUUVxdFkoXSExRDEFRRUpBDgVNOZo1ZIFkYABQr2Q3UFoBUB8MVNFiOtw5YMcyNus2Z6VnZ69kOsVmNZ5hFlACAVIEUQIJSFFTBQcVUQAHWRoKUlBaGgtQCVIDVQNWBgdUB4o7KlcDAlMcAgVJVQpsVgZcCQUDVAMYUg4CW1UBAFYEP4I2Y0JWZojf-Q|EPSFC",
+      "connectorName": "expedia",
+      "savings": 272.3,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 6412.05,
+        "tax": 0,
+        "netPrice": 6412.05
+      },
+      "originalPrice": {
+        "total": 6717.46,
+        "tax": 0,
+        "netPrice": 6717.46
+      },
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-12-07T03:00:00.000-08:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a fire extinguisher, a smoke detector, and a first aid kit</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>Pool access available from 7:00 AM to 5:00 PM.</li><li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Personal protective equipment, including masks, will be available to guests.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; a shield is in place between staff and guests in main contact areas; periodic temperature checks are conducted on staff; guests are provided with hand sanitizer; cashless payment methods are available for all transactions; contactless room service is available; masks are required in public areas.</li><li>Contactless check-in and contactless check-out are available.</li><li>Enhanced food service safety measures are in place.</li><li>Individually-wrapped food options are available for breakfast, lunch, and dinner, and also through room service.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of SafeStay (AHLA - USA).</li>\n<li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 1993.81,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-12-07T11:00:00",
+          "end": "2023-01-18T02:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Destination fee: USD 40.67 per accommodation, per night. This fee does not apply to children under 1 year of age.</li><li>Service fee: USD 15 per accommodation, per night</li></ul> <p>We have included all charges provided to us by the property. </p> <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul>         <li>Valet parking fee: USD 53.90 per night (in/out privileges)</li>       <li>Late check-out fee: USD 10 (subject to availability)</li>               </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 478,
+      "medianUserRating": 4.6,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["family", "adventurer"]
+  },
+  {
+    "name": "Lotte Hotel Hanoi",
+    "hotelId": "8829295",
+    "hotelDetailIdentifier": "8829295|EPSFC",
+    "savingIdentifier": "8829295|EPSFC",
+    "checkinDateTime": "2023-01-18T14:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Deluxe King Room",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>452-sq-foot room with city views </p><br/><p><b>Internet</b> - Free WiFi and wired Internet access</p><p><b>Entertainment</b> - 48-inch LED TV with cable channels</p><p><b>Food & Drink</b> - Electric kettle, minibar (fees may apply), 24-hour room service, and free bottled water</p><p><b>Sleep</b> - A pillow menu, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, slippers, and a separate bathtub and shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and desk; rollaway/extra beds available on request</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Need to Know</b> - No cribs (infant beds) available</p><p>Non-Smoking</p>",
+      "roomDetailIdentifier": "200759687|203805798|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHVEEXFRTUQIEFFJSCwAbBgRQAB4OUlFWGlsGXFJVUgJbBFcEBz5BVFgDBwZXXlIVB1VUAhpVBlcJGQZTBVofBVpVAgAJB1tRVlQAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjVFUFWU0NVtE1Z9liPMQ5Zr8xNfM2Z61nZJdkOc9mEAJTU1NXVV4ESwcIVA1MBVkJAxoOCQcBSAFRVV1UAAFWUA1WAdA3fwoJBlceAVMcAw4wVQMCVgBcDAkXVAAOVA8CU1MFatkyZ04HF2dvFA|EPSFC",
+      "connectorName": "expedia",
+      "savings": 14.33,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 3018.03,
+        "tax": 0,
+        "netPrice": 3018.03
+      },
+      "originalPrice": null,
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-16T14:00:00.000+07:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a fire extinguisher, a smoke detector, and a security system</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>   <li>One child 5 years old or younger stays free when occupying the parent or guardian's room, using existing bedding. </li><li>No pets and no service animals are allowed at this property. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer.</li><li>Each guestroom is kept vacant for a minimum of 24 hours between bookings.</li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 1058.55,
+          "deadLineTimestamp": "2023-01-16T07:00:00",
+          "description": "Cancellations after 16th Jan 2023 07:00 a.m. incur a $1058.55 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-16T07:00:00",
+          "end": "2023-01-18T07:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul>      <li>Airport shuttle fee: VND 1474200 per vehicle (one-way, maximum occupancy 3)</li>             <li>Rollaway bed fee: VND 1465695.0 per day</li>            </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free self parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 975,
+      "medianUserRating": 4.7,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["backpacker"]
+  },
+  {
+    "name": "InterContinental Hanoi Westlake, an IHG Hotel",
+    "hotelId": "1848828",
+    "hotelDetailIdentifier": "1848828|EPSFC",
+    "savingIdentifier": "1848828|EPSFC",
+    "checkinDateTime": "2023-01-18T15:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Classic Room, 2 Twin Beds, City View",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>2 Twin Beds</strong></p><p>463-sq-foot room with a balcony </p><br/><p><b>Internet</b> - Free WiFi and wired Internet access</p><p><b>Entertainment</b> - LCD television with premium channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), 24-hour room service, and free bottled water</p><p><b>Sleep</b> - Select Comfort bed, a pillow menu, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, bathtub or shower, and deep soaking bathtub or rainfall showerhead</p><p><b>Practical</b> - Safe, free newspaper, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Grab bar in bathtub and wheelchair accessible</p><p>Non-Smoking</p>",
+      "roomDetailIdentifier": "441379|384998051|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHVEEXFRTUQIEFFJSCwAbBgRQAB4OUlFWGlsGXFJVUgJbBFcEBz5BVFgDBwZXXlIVB1VUAhpVBlcJGQZTBVofBVpVAgAJB1tRVlQAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtVBPszP1RDZkJcXEUkUAZHl2AePU8RQEsRVRNYQGIVCl92BwETGRFKWk0HFV4UbU8IWhsfFhdAWFdEC0FBEwlRSWmYZTOGZDFXVvhlYlQBWFsWUwfUZDWLOTDIZTW7NmKkZDT9ZDXGOmTONhBVAlQFAwQJUxkKVARZHFUAVFEbAAYCVk4ABFoBAFVTAgcLVFOHYyYLBFcBHVADHgddMQMIXAZQAwQBSwUCXAgDVFIABTmKZzpCUoZ1i3U|EPSFC",
+      "connectorName": "expedia",
+      "savings": 55.73,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 3157.54,
+        "tax": 0,
+        "netPrice": 3157.54
+      },
+      "originalPrice": null,
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-12-08T07:06:58.097+07:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a fire extinguisher, a smoke detector, and a security system</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul>. <ul>  <li>Reservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. </li> <li>One child 12 years old or younger stays free when occupying the parent or guardian's room, using existing bedding. </li><li>Only registered guests are allowed in the guestrooms. </li> <li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>The property is cleaned and disinfected using an electrostatic sprayer; disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Staff at the property wear personal protective equipment; a shield is in place between staff and guests in main contact areas; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer; cashless payment methods are available for all transactions; contactless room service is available; masks are required in public areas.</li><li>Contactless check-in and contactless check-out are available.</li><li>Enhanced food service safety measures are in place.</li><li>Individually-wrapped food options are available through room service.</li><li>This property affirms that it follows the cleaning and disinfection practices of Clean Promise (IHG).</li><li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 1198.06,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-12-08T00:06:58.097",
+          "end": "2023-01-18T11:00:00",
+          "amount": null,
+          "percent": null,
+          "nights": "1",
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: USD 23 per person (approximately)</li>     <li>Airport shuttle fee: USD 88 per vehicle (one-way)</li>        <li>Early check-in is available for a fee (subject to availability)</li>     <li>Rollaway bed fee: USD 40.0 per night</li>            </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free self parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Breakfast for 2",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 994,
+      "medianUserRating": 4.4,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["backpacker"]
+  },
+  {
+    "name": "Hanoi La Siesta Hotel & Spa",
+    "hotelId": "8964136",
+    "hotelDetailIdentifier": "8964136|EPSFC",
+    "savingIdentifier": "8964136|EPSFC",
+    "checkinDateTime": "2023-01-18T14:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Superior Room, No Windows",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "Choices of multiple bed types for the same room are requests only and may not be honoured at the hotel if availability does not permit.<p><strong>1 King Bed or 2 Twin Beds</strong></p><p>269 sq feet </p><br/><p><b>Internet</b> - Free WiFi and wired Internet access</p><p><b>Entertainment</b> - Flat-screen TV with cable channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), room service (limited hours), and free bottled water</p><p><b>Bathroom</b> - Private bathroom, bathrobes, and a separate bathtub and shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and laptop workspace</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Need to Know</b> - No windows, bed sheets not available, no cribs (infant beds) or rollaway/extra beds available</p><p>Non-Smoking</p>",
+      "roomDetailIdentifier": "215744593|386111986|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHVEEXFRTUQIEFFJSCwAbBgRQAB4OUlFWGlsGXFJVUgJbBFcEBz5BVFgDBwZXXlIVB1VUAhpVBlcJGQZTBVofBVpVAgAJB1tRVlQAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjVFUDVk0NW9E1Z9liPMQ5Zr8xNfM2Z61nZJdkOc9mEAJTU1NXVV4ESwcIVA1MBVkJAxoOCQcBSAFRVV1UAAFWUA1WAdA3fwoJBlceAVMcAw4wVQMCVgBcDAkXVAAOVA8CU1MFatkyZ04HdCgQPA|EPSFC",
+      "connectorName": "expedia",
+      "savings": 199.26,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 2997.06,
+        "tax": 0,
+        "netPrice": 2997.06
+      },
+      "originalPrice": {
+        "total": 2957.64,
+        "tax": 0,
+        "netPrice": 2957.64
+      },
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-16T18:00:00.000+07:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a fire extinguisher, a smoke detector, a security system, and a first aid kit</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>Reservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. </li> <li>One child 4 years old or younger stays free when occupying the parent or guardian's room, using existing bedding. </li><li>Only registered guests are allowed in the guestrooms. </li> <li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Commonly-touched surfaces are cleaned with disinfectant between stays.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; guests are provided with hand sanitizer.</li><li>Individually-wrapped food options are available for breakfast, lunch, and dinner, and also through room service.</li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 23.21,
+          "deadLineTimestamp": "2023-01-16T11:00:00",
+          "description": "Cancellations after 16th Jan 2023 11:00 a.m. incur a $23.21 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-16T11:00:00",
+          "end": "2023-01-18T11:00:00",
+          "amount": null,
+          "percent": null,
+          "nights": "1",
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: USD 15.47 for adults and USD 10.31 for children (approximately)</li>      <li>Airport shuttle fee: USD 23 per vehicle (one way)</li>             <li>Rollaway bed fee: USD 700002.0 per day</li>            </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Free breakfast",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 731,
+      "medianUserRating": 4.8,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["backpacker"]
+  },
+  {
+    "name": "Hanoi Hotel",
+    "hotelId": "54930",
+    "hotelDetailIdentifier": "54930|EPSFC",
+    "savingIdentifier": "54930|EPSFC",
+    "checkinDateTime": "2023-01-18T14:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Deluxe Room, 1 Double or 2 Twin Beds (Room Only)",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "Choices of multiple bed types for the same room are requests only and may not be honoured at the hotel if availability does not permit.<p><strong>1 Double Bed or 2 Twin Beds</strong></p><p>301-sq-foot room with lake views </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - LCD television with satellite channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), room service (limited hours), and free bottled water</p><p><b>Sleep</b> - Blackout drapes/curtains </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and slippers</p><p><b>Practical</b> - Safe, desk, and phone</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Need to Know</b> - Bed sheets not available</p><p>Smoking And Non-Smoking</p>",
+      "roomDetailIdentifier": "202305177|387086082|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHVEEXFRTUQIEFFJSCwAbBgRQAB4OUlFWGlsGXFJVUgJbBFcEBz5BVFgDBwZXXlIVB1VUAhpVBlcJGQZTBVofBVpVAgAJB1tRVlQAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtQA_szOFdDdlpAUAkDFSBRUcMwSW9IFkYYQFRAWBQkFl1YIABVFx8bQF4YUkYMG34UWFURGERETFheFlxMSBFZBUltzDM11zJnUAauZGMGUFQWVwfUZDCLOTDIZTW7NmKkZDT9ZDXGOmTONhBVAlQFAwQJUxkKVARZHFUAVFEbAAYCVk4ABFoBAFVTAgcLVFOHYyYLBFcBHVADHgddMQMIXAZQAwQBSwUCXAgDVFIABTmKZzpCUoCpdsM|EPSFC",
+      "connectorName": "expedia",
+      "savings": 25.62,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 2576.94,
+        "tax": 0,
+        "netPrice": 2576.94
+      },
+      "originalPrice": {
+        "total": 3068.58,
+        "tax": 0,
+        "netPrice": 3068.58
+      },
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-12-08T03:00:00.000+07:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property.</li><li>Staff at the property wear personal protective equipment.</li><li>Contactless check-out is available.</li><li>Each guestroom is kept vacant for a minimum of 24 hours between bookings.</li><li>At check-in, guests must provide either a negative COVID-19 test result or a record of full COVID-19 vaccination.</li><li>The negative COVID-19 test result requirement applies to all guests aged 18 and up, and test must have been administered no more than 72 hours prior to check-in. COVID-19 vaccination record requirement applies to all guests aged 18 and up; guests must have received complete vaccination at least 3 days prior to check-in.</li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 617.46,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-12-07T20:00:00",
+          "end": "2023-01-18T11:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: VND 250000 per person (approximately)</li>                              </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free self parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 315,
+      "medianUserRating": 3.9,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["backpacker"]
+  },
+  {
+    "name": "The Lapis Hotel",
+    "hotelId": "17471570",
+    "hotelDetailIdentifier": "17471570|EPSFC",
+    "savingIdentifier": "17471570|EPSFC",
+    "checkinDateTime": "2023-01-18T14:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Standard Double or Twin, Internal Window, No View",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "Choices of multiple bed types for the same room are requests only and may not be honoured at the hotel if availability does not permit.<p><strong>1 Queen Bed or 2 Twin Beds</strong></p><p>269 sq feet </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 43-inch flat-screen TV with cable channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), room service (limited hours), and free bottled water</p><p><b>Sleep</b> - Blackout drapes/curtains </p><p><b>Bathroom</b> - Private bathroom, shower, bathrobes, and slippers</p><p><b>Practical</b> - Laptop-compatible safe, iron/ironing board, and desk; free rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Eco-friendly</b> - Eco-friendly toiletries, eco-friendly cleaning supplies, and energy-saving features</p><p><b>Need to Know</b> - Bed sheets not available</p><p>Non-Smoking</p>",
+      "roomDetailIdentifier": "201852386|209382676|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHVEEXFRTUQIEFFJSCwAbBgRQAB4OUlFWGlsGXFJVUgJbBFcEBz5BVFgDBwZXXlIVB1VUAhpVBlcJGQZTBVofBVpVAgAJB1tRVlQAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtQBfszP1dDY0BQVwtGdwdQl2AAPU8RQEsRVRNYQGcXBlRaIABVFx8bQF4YUkYMG2kUUVxdFkoXSExRDEFRRUpBDgVNOZo1ZIFkYABQr2Q2VlALTQcHhTBi0DU8lDYxvGE19jdk_jVkmGdlnjZHBAUCUVJTXgEUVgRQCUwMXQZQFQ8DVVBPVQsGVVUHB1UBCQYE0zonBlUBAkwAARpUXGcIVgxWDwsMXRoHUAAEVVUBAFZq3zo2Fwfw2aog|EPSFC",
+      "connectorName": "expedia",
+      "savings": 12.77,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 2693.11,
+        "tax": 0,
+        "netPrice": 2693.11
+      },
+      "originalPrice": {
+        "total": 3114.73,
+        "tax": 0,
+        "netPrice": 3114.73
+      },
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-15T18:00:00.000+07:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>This property uses a grey water recycling system and eco-friendly cleaning products</li><li>Safety features at this property include a carbon monoxide detector, a fire extinguisher, a smoke detector, a security system, a first aid kit, and window guards</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>   <li>One child 6 years old or younger stays free when occupying the parent or guardian's room, using existing bedding. </li><li>No pets and no service animals are allowed at this property. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>The property is cleaned and disinfected using an electrostatic sprayer; disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F; guestroom doors are sealed after cleaning.</li><li>Personal protective equipment, including masks, will be available to guests.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer; cashless payment methods are available for all transactions; contactless room service is available; masks are required in public areas.</li><li>Contactless check-in and contactless check-out are available.</li><li>Enhanced food service safety measures are in place.</li><li>Individually-wrapped food options are available for breakfast, lunch, and dinner, and also through room service.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of COVID-19 Guidelines (CDC).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 16.43,
+          "deadLineTimestamp": "2023-01-15T11:00:00",
+          "description": "Cancellations after 15th Jan 2023 11:00 a.m. incur a $16.43 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-15T11:00:00",
+          "end": "2023-01-18T11:00:00",
+          "amount": null,
+          "percent": null,
+          "nights": "1",
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul>      <li>Airport shuttle fee: VND 600000 per vehicle (one-way)</li>                         </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 415,
+      "medianUserRating": 4.6,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["backpacker"]
+  },
+  {
+    "name": "Bandos Maldives",
+    "hotelId": "1705990",
+    "hotelDetailIdentifier": "1705990|EPSFC",
+    "savingIdentifier": "1705990|EPSFC",
+    "checkinDateTime": "2023-01-18T14:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Standard beachfront Room",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "Choices of multiple bed types for the same room are requests only and may not be honoured at the hotel if availability does not permit.<p><strong>1 Double Bed or 1 Twin Bed</strong></p><p>398-sq-foot room with beach views </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 32-inch Smart TV with cable channels</p><p><b>Food & Drink</b> - 24-hour room service, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, free toiletries, a hair dryer, and towels</p><p><b>Practical</b> - Safe and phone</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p>",
+      "roomDetailIdentifier": "200089403|212341970|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHQYHVgENVAQAFFJQUQMbBlAEDh5XUVVUGgEDAVAMA1MLUgBTBD5BAFpRBg5RDF4VBFJTUBpVB1UAGVxRAwwfAgFTBgRUUV0DBAcAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtQA_szOFdDdlpAUAkDFSBRUcMwSW9IFkYYQFRAWBQkFl1YIABVFx8bQF4YUkYMG34UWFURGERETFheFlxMSBFZBUltzDM11zJnUAauZGICVlIJTQcDhTBh0DU8lDYxvGE19jdk_jVkmGdlnjZHAVNaB1JUBQIUBABYUkwMBg8HFVVTXVRPBg5SU1UPUlcDAlNQ0zonBlUBAkwAARpUXGcIVgxWAAsIXRoOUQgGV1IABVFq3zo2Fwcw2O_G|EPSFC",
+      "connectorName": "expedia",
+      "savings": 677.07,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 4953.75,
+        "tax": 0,
+        "netPrice": 4953.75
+      },
+      "originalPrice": {
+        "total": 5793.15,
+        "tax": 0,
+        "netPrice": 5793.15
+      },
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-11T18:00:00.000+05:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a carbon monoxide detector, a fire extinguisher, a smoke detector, a security system, and a first aid kit</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>If you require a visa to enter the country, your property may be able to help with the supporting documents needed to obtain one. To learn more, you can reach out to the property via the contact details included on your booking confirmation. The property may charge for this assistance, even if you end up cancelling your reservation. All arrangements are solely between the property and yourself. </li><li>Reservations are required for massage services. Reservations can be made by contacting the resort prior to arrival, using the contact information on the booking confirmation. </li><li>Only registered guests are allowed in the guestrooms. </li> <li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; a shield is in place between staff and guests in main contact areas; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer.</li><li>Each guestroom is kept vacant for a minimum of 72 hours between bookings.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of Intertek Cristal (3rd party expert - Global).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 2711.67,
+          "deadLineTimestamp": "2023-01-11T13:00:00",
+          "description": "Cancellations after 11th Jan 2023 01:00 p.m. incur a $2711.67 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-11T13:00:00",
+          "end": "2023-01-18T13:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Christmas Eve (24 December) Gala Dinner per adult: USD 193</li><li>Christmas Eve (24 December) Gala Dinner per child: USD 96 (from 2 to 11 years old)</li> <li>New Year's Eve (31 December) Gala Dinner per adult: USD 193</li><li>New Year's Eve (31 December) Gala Dinner per child: USD 96 (from 2 to 11 years old)</li><li>A tax is imposed by the city: USD 6.00 per person, per night</li></ul> <p>We have included all charges provided to us by the property. </p> <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul>      <li>Airport shuttle fee: USD 94 per person (roundtrip)</li> <li>Airport shuttle fee per child: USD 47 (roundtrip), (from 2 to 11 years old)</li>        <li>Early check-in is available for a fee (subject to availability)</li>                 </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Breakfast buffet",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 991,
+      "medianUserRating": 4.5,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["luxury"]
+  },
+  {
+    "name": "Kurumba Maldives",
+    "hotelId": "1118581",
+    "hotelDetailIdentifier": "1118581|EPSFC",
+    "savingIdentifier": "1118581|EPSFC",
+    "checkinDateTime": "2023-01-18T14:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Superior Room",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 Queen Bed</strong></p><p>797-sq-foot room, balcony/patio with garden views </p><br/><p><b>Layout</b> - Separate sitting area</p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 42-inch LCD TV, cable channels, and DVD player</p><p><b>Food & Drink</b> - 24-hour room service, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - A pillow menu, blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Partially open bathroom, bathrobes, and a separate bathtub and shower with a rainfall showerhead</p><p><b>Practical</b> - Day bed, safe, and iron/ironing board; free cribs/infant beds available on request</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Height-adjustable showerhead, wheelchair accessible, and wheelchair-width doorways</p><p>Smoking And Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "314141094|382450061|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHQYHVgENVAQAFFJQUQMbBlAEDh5XUVVUGgEDAVAMA1MLUgBTBD5BAFpRBg5RDF4VBFJTUBpVB1UAGVxRAwwfAgFTBgRUUV0DBAcAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtQBfszP1dDY0BQVwtGdwdQl2AAPU8RQEsRVRNYQGcXBlRaIABVFx8bQF4YUkYMG2kUUVxdFkoXSExRDEFRRUpBDgVNOZo1ZIFkYABQr2Q3UlEOUB8EVtFiOtw5YMcyNus2Z6VnZ69kOsVmNZ5hFgYFDlYFA1cPSFRUCAIVUVQOCRpQBFtVGglSBgYHWwVRAVAEBIo7KlcDAlMcAgVJVQpsVgZcCQgDVAwYXA0EUFYBAFYCP4I2Y0JWfFZFLA|EPSFC",
+      "connectorName": "expedia",
+      "savings": 608.23,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 5505.11,
+        "tax": 0,
+        "netPrice": 5505.11
+      },
+      "originalPrice": {
+        "total": 7324.07,
+        "tax": 0,
+        "netPrice": 7324.07
+      },
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-04T18:00:00.000+05:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Noise-free guestrooms cannot be guaranteed</li><li>Safety features at this property include a fire extinguisher and a smoke detector</li><li>Some rooms at this property are not suitable for children; please add child ages in the search parameters to display available rooms</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul>. <ul>  <li>If you require a visa to enter the country, your property may be able to help with the supporting documents needed to obtain one. To learn more, you can reach out to the property via the contact details included on your booking confirmation. The property may charge for this assistance, even if you end up cancelling your reservation. All arrangements are solely between the property and yourself. </li><li>Reservations are required for massage services and spa treatments. Reservations can be made by contacting the resort prior to arrival, using the contact information on the booking confirmation. </li><li>Only registered guests are allowed in the guestrooms. </li> <li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>No pets and no service animals are allowed at this property. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F; guestroom doors are sealed after cleaning.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer; cashless payment methods are available for all transactions; reservations are required for some onsite facilities.</li><li>Enhanced food service safety measures are in place.</li><li>Each guestroom is kept vacant for a minimum of 24 hours between bookings.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of Ecolab (3rd party expert - Global).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 3263.03,
+          "deadLineTimestamp": "2023-01-04T13:00:00",
+          "description": "Cancellations after 4th Jan 2023 01:00 p.m. incur a $3263.03 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-04T13:00:00",
+          "end": "2023-01-18T13:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Christmas Eve (24 December) Gala Dinner per adult: USD 228</li><li>Christmas Eve (24 December) Gala Dinner per child: USD 114 (from 2 to 11 years old)</li> <li>New Year's Eve (31 December) Gala Dinner per adult: USD 419</li><li>New Year's Eve (31 December) Gala Dinner per child: USD 209 (from 2 to 11 years old)</li><li>A tax is imposed by the city: USD 6.00 per person, per night</li></ul> <p>We have included all charges provided to us by the property. </p> <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul>      <li>Airport shuttle fee: USD 122 per person (roundtrip)</li> <li>Airport shuttle fee per child: USD 61 (roundtrip), (up to 11 years old)</li>        <li>Early check-in is available for a fee (subject to availability)</li>                 </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Free breakfast",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 791,
+      "medianUserRating": 4.7,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["luxury"]
+  },
+  {
+    "name": "Kandima Maldives",
+    "hotelId": "16010012",
+    "hotelDetailIdentifier": "16010012|EPSFC",
+    "savingIdentifier": "16010012|EPSFC",
+    "checkinDateTime": "2023-01-18T14:00",
+    "checkoutDateTime": "2023-01-24T11:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Sky Studio",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed and 1 Double Sofa Bed</strong></p><p>592-sq-foot individually decorated room, furnished balcony/patio with sea views </p><br/><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - Smart television with premium channels</p><p><b>Food & Drink</b> - Mini-fridge, minibar (fees may apply), espresso maker, and electric kettle</p><p><b>Sleep</b> - Premium bedding, blackout drapes/curtains, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, bathrobes, and a bathtub or shower with a rainfall showerhead</p><p><b>Practical</b> - Safe, laptop workspace, and phone; free cribs/infant beds available on request</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p>Non-Smoking</p><p>Room is accessed via exterior corridors </p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "316401042|385980954|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHQYHVgENVAQAFFJQUQMbBlAEDh5XUVVUGgEDAVAMA1MLUgBTBD5BAFpRBg5RDF4VBFJTUBpVB1UAGVxRAwwfAgFTBgRUUV0DBAcAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtSDPszFFdDeVxbVUUkUAYUVA9VRgUTcF0UUl0HQmUNBVAUIABVlzJkaExAQx1GXBpbFnJaWgF3XF0SThdLWEkGFg4SL1taAhFJQEMRBAtECBdBQQsFGB0YGkBBFFIRDkFnCVMEJFICGklGR10ZVxdZFSBEClgbSRcQRABWEV5CQRUIVB4_nzllgmQ1UQD4MWUHUwkMGlYB0GAw2zZglTI67jRnqTM4_TY0xDo1yGEUAwUJVQxRAgJIAwZfAkgHUQsJSVtZWlMdUA4HAVIACQBXBQVW1DZ6AAFQU0tUA09WWjFWUg0HW1gDCBYIUAYHAQIHUVM4jjQyEwuIlIx1|EPSFC",
+      "connectorName": "expedia",
+      "savings": 835.68,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 4457.4,
+        "tax": 0,
+        "netPrice": 4457.4
+      },
+      "originalPrice": {
+        "total": 8420.58,
+        "tax": 0,
+        "netPrice": 8420.58
+      },
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-04T18:00:00.000+05:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Noise-free guestrooms cannot be guaranteed</li><li>Safety features at this property include a fire extinguisher, a smoke detector, and window guards</li><li>Some rooms at this property are not suitable for children; please add child ages in the search parameters to display available rooms</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul>. <ul>  <li>Reservations are required for massage services and spa treatments. Reservations can be made by contacting the resort prior to arrival, using the contact information on the booking confirmation. </li><li>Up to 2 children 12 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>Only registered guests are allowed in the guestrooms. </li> <li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>No pets and no service animals are allowed at this property. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; a shield is in place between staff and guests in main contact areas; periodic temperature checks are conducted on staff; temperature checks are available to guests; guests are provided with hand sanitizer.</li><li>Contactless check-in and contactless check-out are available.</li><li>Individually-wrapped food options are available through room service.</li><li>Each guestroom is kept vacant for a minimum of 24 hours between bookings, and can be accessed from outside the building via exterior corridors.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of Safe Travels (WTTC - Global).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 2215.32,
+          "deadLineTimestamp": "2023-01-04T13:00:00",
+          "description": "Cancellations after 4th Jan 2023 01:00 p.m. incur a $2215.32 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-04T13:00:00",
+          "end": "2023-01-18T13:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Deposit: USD 200.00 per night</li><li>Christmas Eve (24 December) Gala Dinner per adult: USD 0</li><li>Christmas Eve (24 December) Gala Dinner per child: USD 125 (from 6 to 11 years old)</li> <li>New Year's Eve (31 December) Gala Dinner per adult: USD 0</li><li>New Year's Eve (31 December) Gala Dinner per child: USD 200 (from 6 to 11 years old)</li><li>Gala Dinner on 24 December per adult: USD 0</li><li>Gala Dinner on 24 December per child: USD 188 (from 12 to 17 years old)</li><li>Gala Dinner on 31 December per adult: USD 0</li><li>Gala Dinner on 31 December per child: USD 300 (from 12 to 17)</li><li>A tax is imposed by the city: USD 6.00 per person, per night</li><li>Airplane and boat transfer per adult: USD 370 (roundtrip)</li><li>Airplane and boat transfer per child: USD 290 (roundtrip), from 2 to 11 years old</li> <li> Additional fee for children (from 12 years old to 17 years old): USD 370 per person, per stay</li></ul> <p>We have included all charges provided to us by the property. </p> From December 24, 2021 to December 23, 2022, the domestic airplane transfer fees for Comfort (Economy) bookings are USD 370 per adult and USD 290 per child age 2-11. The transfer fees for Sapphire (Business) bookings are USD 560 per adult and USD 350 per child age 2-11. <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul>      <li>Airport shuttle fee: USD 370 per person (roundtrip)</li> <li>Airport shuttle fee per child: USD 295 (roundtrip), (from 2 to 11 years old)</li>                         </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Breakfast buffet",
+          "isPrimary": false
+        },
+        {
+          "description": "Free welcome drink",
+          "isPrimary": false
+        },
+        {
+          "description": "Early check-in",
+          "isPrimary": false
+        },
+        {
+          "description": "Late check-out",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 195,
+      "medianUserRating": 4.4,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["luxury"]
+  },
+  {
+    "name": "Meeru Island Resort & Spa",
+    "hotelId": "1451649",
+    "hotelDetailIdentifier": "1451649|EPSFC",
+    "savingIdentifier": "1451649|EPSFC",
+    "checkinDateTime": "2023-01-18T14:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Beach Villa",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 Double Bed</strong></p><p>603-sq-foot room, balcony with beach views </p><br/><p><b>Layout</b> - Bedroom </p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - Flat-screen TV with satellite channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), electric kettle, and room service (limited hours)</p><p><b>Sleep</b> - Blackout drapes/curtains, turndown service, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, slippers, and a shower with a rainfall showerhead</p><p><b>Practical</b> - Day bed, access to in-room child care, and safe</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Need to Know</b> - No cribs (infant beds) available</p><p>Non-Smoking</p>",
+      "roomDetailIdentifier": "504928|206137163|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHQYHVgENVAQAFFJQUQMbBlAEDh5XUVVUGgEDAVAMA1MLUgBTBD5BAFpRBg5RDF4VBFJTUBpVB1UAGVxRAwwfAgFTBgRUUV0DBAcAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtQA_szOFdDdlpAUAkDFSBRUcMwSW9IFkYYQFRAWBQkFl1YIABVFx8bQF4YUkYMG34UWFURGERETFheFlxMSBFZBUltzDM11zJnUAauZGIFUFULTQABhTBh0DU8lDYxvGE19jdk_jVkmGdlnjZHAVNaB1JUBQIUBABYUkwMBg8HFVVTXVRPBg5SU1UPUlcDAlNQ0zonBlUBAkwAARpUXGcIVgxWAAsIXRoOUQgGV1IABVFq3zo2FwdBfjaN|EPSFC",
+      "connectorName": "expedia",
+      "savings": 1092.75,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 7405.23,
+        "tax": 0,
+        "netPrice": 7405.23
+      },
+      "originalPrice": {
+        "total": 7614.27,
+        "tax": 0,
+        "netPrice": 7614.27
+      },
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-17T18:00:00.000+05:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul> <ul>  <li>Guests will be charged a consumption-based utility fee at check-out.</li>  </ul>. <ul>  <li>If you require a visa to enter the country, your property may be able to help with the supporting documents needed to obtain one. To learn more, you can reach out to the property via the contact details included on your booking confirmation. The property may charge for this assistance, even if you end up cancelling your reservation. All arrangements are solely between the property and yourself. </li><li>Pool access available from 6:00 AM to 8:00 PM.</li><li>Reservations are required for massage services and spa treatments. Reservations can be made by contacting the resort prior to arrival, using the contact information on the booking confirmation. </li><li>No pets and no service animals are allowed at this property. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property, and commonly-touched surfaces are cleaned with disinfectant between stays.</li><li>Social distancing measures are in place.</li><li>At check-in, guests must provide a negative PCR COVID-19 test result.</li><li>Guest providing a negative COVID-19 test result must have been tested no more than 72 hours prior to check-in. </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 5163.15,
+          "deadLineTimestamp": "2023-01-17T13:00:00",
+          "description": "Cancellations after 17th Jan 2023 01:00 p.m. incur a $5163.15 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-17T13:00:00",
+          "end": "2023-01-18T13:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Christmas Eve (24 December) Gala Dinner per adult: USD 140</li><li>Christmas Eve (24 December) Gala Dinner per child: USD 70 (from 2 to 14 years old)</li> <li>New Year's Eve (31 December) Gala Dinner per adult: USD 160</li><li>New Year's Eve (31 December) Gala Dinner per child: USD 80 (from 2 to 14 years old)</li><li>A tax is imposed by the city: USD 6.00 per person, per night</li><li>Airport shuttle transfer per adult: USD 175 (roundtrip)</li><li>Airport shuttle transfer per child: USD 88 (roundtrip), from 2 to 14 years old</li> <li> Additional fee for children (from 15 years old to 17 years old): USD 170 per person, per stay</li></ul> <p>We have included all charges provided to us by the property. </p> The additional fee covers transfer fees for guests ages 15-17. <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul>      <li>Airport shuttle fee: USD 175 per person (roundtrip)</li> <li>Airport shuttle fee per child: USD 88 (roundtrip), (from 2 to 14 years old)</li>          <li>Late check-out is available for a fee (subject to availability)</li>               </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free dinner",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Full board",
+          "isPrimary": false
+        },
+        {
+          "description": "Free breakfast",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 939,
+      "medianUserRating": 4.6,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["luxury"]
+  },
+  {
+    "name": "Kuramathi Maldives",
+    "hotelId": "1152540",
+    "hotelDetailIdentifier": "1152540|EPSFC",
+    "savingIdentifier": "1152540|EPSFC",
+    "checkinDateTime": "2023-01-18T14:00",
+    "checkoutDateTime": "2023-01-24T12:00",
+    "nights": 6,
+    "leadRoom": {
+      "name": "Superior Beach Villa",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>969-sq-foot room, balcony with beach views </p><br/><p><b>Layout</b> - Bedroom </p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - LCD television, premium channels, and iPod dock</p><p><b>Food & Drink</b> - Free tea bags/instant coffee, minibar (fees may apply), and free bottled water</p><p><b>Sleep</b> - Turndown service and bed sheets </p><p><b>Bathroom</b> - Private bathroom, deep soaking bathtub, and rainfall showerhead</p><p><b>Practical</b> - Safe, desk, and phone; free cribs/infant beds available on request</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p>Smoking And Non-Smoking</p>",
+      "roomDetailIdentifier": "314063916|382706474|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQMITJUAVQAGAlVTgZQc2d1M3dkHQYHVgENVAQAFFJQUQMbBlAEDh5XUVVUGgEDAVAMA1MLUgBTBD5BAFpRBg5RDF4VBFJTUBpVB1UAGVxRAwwfAgFTBgRUUV0DBAcAVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjUFMGVk0IVdE1Z9liPMQ5Zr8xNfM2Z61nZJdkOc9mEAcFCwVXUgUHS1UMXFZMBQIAVBpUWQ8FSFJUAVtUCFRUUgYDVdA3fwoJBlceAVMcAw4wVQMCVg9cCAkXXQEGVg0FUlYCatkyZ04HPXnJag|EPSFC",
+      "connectorName": "expedia",
+      "savings": 764.1,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 7909.14,
+        "tax": 0,
+        "netPrice": 7909.14
+      },
+      "originalPrice": {
+        "total": 10642.32,
+        "tax": 0,
+        "netPrice": 10642.32
+      },
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-04T18:00:00.000+05:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul>. <ul>  <li>If you require a visa to enter the country, your property may be able to help with the supporting documents needed to obtain one. To learn more, you can reach out to the property via the contact details included on your booking confirmation. The property may charge for this assistance, even if you end up cancelling your reservation. All arrangements are solely between the property and yourself. </li><li>Reservations are required for massage services and spa treatments. Reservations can be made by contacting the resort prior to arrival, using the contact information on the booking confirmation. </li><li>No pets and no service animals are allowed at this property. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Social distancing measures are in place.</li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 5667.06,
+          "deadLineTimestamp": "2023-01-04T13:00:00",
+          "description": "Cancellations after 4th Jan 2023 01:00 p.m. incur a $5667.06 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-04T13:00:00",
+          "end": "2023-01-18T13:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Christmas Eve (24 December) Gala Dinner per adult: USD 184.8</li><li>Christmas Eve (24 December) Gala Dinner per child: USD 123.2 (from 2 to 11 years old)</li> <li>New Year's Eve (31 December) Gala Dinner per adult: USD 246.4</li><li>New Year's Eve (31 December) Gala Dinner per child: USD 166.32 (from 2 to 11 years old)</li><li>A tax is imposed by the city: USD 6.00 per person, per night</li><li>Boat transfer per adult: USD 148 (roundtrip)</li><li>Transfer service fee per child: USD 74 (roundtrip), up to 11 years old</li> <li> Additional fee for children (from 12 years old to 17 years old): USD 148 per person, per stay</li></ul> <p>We have included all charges provided to us by the property. </p> The listed transfer fees cover boat transfer fees for adults and children ages 0-11. The additional fee covers boat transfer fees for guests ages 12-17. Roundtrip seaplane transfer fees are USD 353 per guest ages 12 and older, and USD 213 per child ages 2-11. Infants (under 2 years old) are not charged any transfer fees when sitting on the lap of the parent. Seats will not be provided and no baggage allowance will be available for children under 2 years old. <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Full board",
+          "isPrimary": false
+        },
+        {
+          "description": "Free breakfast",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 147,
+      "medianUserRating": 4.5,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["luxury"]
+  },
+  {
+    "name": "Novotel Queenstown Lakeside",
+    "hotelId": "911529",
+    "hotelDetailIdentifier": "911529|EPSFC",
+    "savingIdentifier": "911529|EPSFC",
+    "checkinDateTime": "2023-01-17T14:00",
+    "checkoutDateTime": "2023-01-24T11:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Standard Room, 1 King Bed",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>280-sq-foot room with a balcony/patio </p><br/><p><b>Internet</b> - WiFi and wired Internet access </p><p><b>Entertainment</b> - 21-inch LCD TV with satellite channels and pay movies</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), electric kettle, and 24-hour room service</p><p><b>Sleep</b> - A pillow menu and bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, free toiletries, and a hair dryer</p><p><b>Practical</b> - Laptop-compatible safe, free newspaper, and iron/ironing board; free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "200102766|252007993|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVINU1JRU1cIFAMAAlYbBlFXAh4OAwIGGlJRUFUBUlALUgcCAj5BAlpdBldWAQIVCFwDBxpVAFBZGVwEAA0fUwkEDV0HVV9cUlQEVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjV1YJUk0MVtE1Z9liPMQ5Zr8xNfM2Z61nZJdkOc9mEFIFCwYCUgABSwNcAFZMBVIPABpUAVYESFUHBV1VVFQDAlYBBNA3fwoJBlceAVMcAw4wVQMCVwdcCgIXUAIGVgoGVFcJatkyZ04HZ5R9oQ|EPSFC",
+      "connectorName": "expedia",
+      "savings": -0.02,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 4149.53,
+        "tax": 0,
+        "netPrice": 4149.53
+      },
+      "originalPrice": null,
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-12-07T04:00:00.000+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a smoke detector and window guards</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li>  </ul>. <ul>  <li>This property's policy is to refuse certain bookings for the purpose of group events or parties, including pre-wedding stag/bachelor and hen/bachelorette parties. </li><li>Up to 2 children 16 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>Only registered guests are allowed in the guestrooms. </li> <li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Personal protective equipment, including masks and gloves, will be available to guests.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; a shield is in place between staff and guests in main contact areas; guests are provided with hand sanitizer; cashless payment methods are available for all transactions; contactless room service is available; masks are required in public areas.</li><li>Contactless check-out is available.</li><li>Enhanced food service safety measures are in place.</li><li>Individually-wrapped food options are available for breakfast, lunch, and dinner, and also through room service.</li><li>This property affirms that it follows the cleaning and disinfection practices of ALLSAFE (Accor Hotels).</li><li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 2393.45,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-12-06T15:00:00",
+          "end": "2023-01-17T06:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": [
+        {
+          "start": "2023-01-17",
+          "end": "2023-01-23"
+        }
+      ],
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Deposit: NZD 100 per night</li></ul> <p>We have included all charges provided to us by the property. </p> <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: NZD 33.00 for adults and NZD 17.50 for children (approximately)</li>  <li>Fee for in-room wireless Internet: NZD 10 per night (rates may vary)</li> <li>Fee for in-room wired Internet: NZD 10 per night (rates may vary)</li>      <li>Valet parking fee: NZD 25.00 per night (in/out privileges)</li>  <li>Nearby parking fee: NZD 20 per night (164 ft away)</li>   <li>Early check-in is available for a fee (subject to availability)</li>  <li>Late check-out is available for a fee (subject to availability)</li>             <li>Credit card charges are subject to a surcharge of 2 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 976,
+      "medianUserRating": 4.3,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["adventure", "backpacker", "family"]
+  },
+  {
+    "name": "Crowne Plaza Hotel Queenstown, an IHG Hotel",
+    "hotelId": "10842",
+    "hotelDetailIdentifier": "10842|EPSFC",
+    "savingIdentifier": "10842|EPSFC",
+    "checkinDateTime": "2023-01-17T15:00",
+    "checkoutDateTime": "2023-01-24T11:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Standard Room",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "Choices of multiple bed types for the same room are requests only and may not be honoured at the hotel if availability does not permit.<p><strong>1 King Bed or 2 Double Beds</strong></p><p>356-sq-foot room, balcony/patio with courtyard views </p><br/><p><b>Internet</b> - Free WiFi and wired Internet access</p><p><b>Entertainment</b> - LCD television with digital channels</p><p><b>Food & Drink</b> - Coffee/tea maker, minibar (fees may apply), and 24-hour room service</p><p><b>Sleep</b> - Blackout drapes/curtains and bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and slippers</p><p><b>Practical</b> - Safe, free newspaper, and iron/ironing board; rollaway/extra beds and free cribs/infant beds available on request</p><p><b>Comfort</b> - Climate-controlled air conditioning and daily housekeeping</p><p><b>Accessibility</b> - Wheelchair accessible</p><p>Non-Smoking</p><p>Room/bed type depends on availability at check-in </p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "201421232|380236824|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVINU1JRU1cIFAMAAlYbBlFXAh4OAwIGGlJRUFUBUlALUgcCAj5BAlpdBldWAQIVCFwDBxpVAFBZGVwEAA0fUwkEDV0HVV9cUlQEVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjUFAEVU0AWtE1YdliPMQ5Zr8xNfM2Z61nZJdkOc9mEFIFCwYCUgABSwNcAFZMBVIPABpUAVYESFUHBV1VVFQDAlYBBNA3fwoJBlceAVMcAw4wVQMCVwdcCgIXUAIGVgoGVFcJatkyZ04H_pqYRw|EPSFC",
+      "connectorName": "expedia",
+      "savings": -645.97,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 7300.97,
+        "tax": 0,
+        "netPrice": 7300.97
+      },
+      "originalPrice": null,
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-16T18:00:00.000+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a smoke detector</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul> <ul>  <li>There are no breakfast or dinner fees for each child age 0-12 when dining with a paying adult ordering from the regular menu. Children must dine from the kids menu for dinner. Children age 13-16 receive 50% off the adult breakfast fee.</li>  </ul>. <ul>   <li>One child 16 years old or younger stays free, per registered adult, when occupying the parent or guardian's room, using existing bedding. </li><li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Personal protective equipment, including masks and gloves, will be available to guests.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; guests are provided with hand sanitizer.</li><li>Contactless check-out is available.</li><li>This property affirms that it follows the cleaning and disinfection practices of Clean Promise (IHG).</li><li>This property affirms that it adheres to the cleaning and disinfection practices of Safe Travels (WTTC - Global).</li>\n<li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 408.56,
+          "deadLineTimestamp": "2023-01-16T05:00:00",
+          "description": "Cancellations after 16th Jan 2023 05:00 a.m. incur a $408.56 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-16T05:00:00",
+          "end": "2023-01-17T05:00:00",
+          "amount": null,
+          "percent": null,
+          "nights": "1",
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: NZD 36 for adults and NZD 18 for children (approximately)</li>     <li>Fee for wired Internet in public areas: NZD 10 (for 12 hours, rates may vary)</li>    <li>Valet parking fee: NZD 23.00 per night (in/out privileges)</li>          <li>Rollaway bed fee: NZD 65.0 per night</li>          <li>Credit card charges are subject to a surcharge of 2 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        },
+        {
+          "description": "Breakfast for 2",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 986,
+      "medianUserRating": 4.4,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["adventure", "backpacker", "family"]
+  },
+  {
+    "name": "The Rees Hotel and Luxury Apartments",
+    "hotelId": "110468",
+    "hotelDetailIdentifier": "110468|EPSFC",
+    "savingIdentifier": "110468|EPSFC",
+    "checkinDateTime": "2023-01-17T15:00",
+    "checkoutDateTime": "2023-01-24T11:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Executive Room, Lake View",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "Choices of multiple bed types for the same room are requests only and may not be honoured at the hotel if availability does not permit.<p><strong>1 King Bed or 2 Twin Beds</strong></p><p>431-sq-foot individually decorated room, balcony/patio with lake views </p><br/><p><b>Layout</b> - Separate sitting area</p><p><b>Relax</b> - In-room massage available</p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - Flat-screen TV with premium channels and pay movies</p><p><b>Food & Drink</b> - Refrigerator, minibar (fees may apply), coffee/tea maker, and 24-hour room service</p><p><b>Sleep</b> - Premium bedding, a pillow menu, and bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower, bathrobes, and slippers</p><p><b>Practical</b> - Safe, iron/ironing board, and laptop workspace; cribs/infant beds available on request</p><p><b>Comfort</b> - Daily housekeeping, heating, and portable fan</p><p><b>Eco-friendly</b> - Eco-friendly toiletries and recycling bin</p><p>Non-Smoking</p><p>Room is accessed via exterior corridors </p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "200525068|202788176|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVINU1JRU1cIFAMAAlYbBlFXAh4OAwIGGlJRUFUBUlALUgcCAj5BAlpdBldWAQIVCFwDBxpVAFBZGVwEAA0fUwkEDV0HVV9cUlQEVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjUVQBWE0LVdE1ZNliPMQ5Zr8xNfM2Z61nZJdkOc9mEFIFCwYCUgABSwNcAFZMBVIPABpUAVYESFUHBV1VVFQDAlYBBNA3fwoJBlceAVMcAw4wVQMCVwdcCgIXUAIGVgoGVFcJatkyZ04HfqywGA|EPSFC",
+      "connectorName": "expedia",
+      "savings": 0,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 5875.44,
+        "tax": 0,
+        "netPrice": 5875.44
+      },
+      "originalPrice": null,
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-10T14:00:00.000+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>This property uses eco-friendly cleaning products</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul>. <ul>  <li>Reservations are required for massage services and spa treatments. Reservations can be made by contacting the hotel prior to arrival, using the contact information on the booking confirmation. </li><li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>A car is recommended for transportation to and from this property. </li><li>Parking height restrictions apply. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Personal protective equipment, including masks, will be available to guests.</li><li>Social distancing measures are in place; staff at the property wear personal protective equipment; guests are provided with hand sanitizer; cashless payment methods are available for all transactions; contactless room service is available; masks are required in public areas; reservations are required for some onsite facilities.</li><li>Contactless check-in and contactless check-out are available.</li><li>Enhanced food service safety measures are in place.</li><li>Individually-wrapped food options are available for breakfast, lunch, and dinner, and also through room service.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of COVID-19 Guidelines (WHO) and Safe Travels (WTTC - Global).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 4119.36,
+          "deadLineTimestamp": "2023-01-10T01:00:00",
+          "description": "Cancellations after 10th Jan 2023 01:00 a.m. incur a $4119.36 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-10T01:00:00",
+          "end": "2023-01-17T01:00:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - The listed credit card fee applies to American Express transactions. The transaction fee is 2.5% for other credit cards and international debit cards. <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for full breakfast: NZD 32.5 per person (approximately)</li>               <li>Late check-out fee: NZD 35 (subject to availability)</li>   <li>Crib (infant bed) fee: NZD 20.00 per stay</li>          <li>Credit card charges are subject to a surcharge of 3.5 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free self parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 994,
+      "medianUserRating": 4.7,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["adventure", "backpacker", "family"]
+  },
+  {
+    "name": "Millennium Hotel Queenstown",
+    "hotelId": "48773",
+    "hotelDetailIdentifier": "48773|EPSFC",
+    "savingIdentifier": "48773|EPSFC",
+    "checkinDateTime": "2023-01-17T14:00",
+    "checkoutDateTime": "2023-01-24T10:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Deluxe King",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "<p><strong>1 King Bed</strong></p><p>247 sq feet </p><br/><p><b>Internet</b> - Free WiFi (3-device limit) </p><p><b>Entertainment</b> - 32-inch LCD TV with premium channels and pay movies</p><p><b>Food & Drink</b> - Refrigerator, electric kettle,  24-hour room service, and free tea bags/instant coffee</p><p><b>Sleep</b> - Blackout drapes/curtains and bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower, and rainfall showerhead</p><p><b>Practical</b> - Safe, iron/ironing board, and desk</p><p><b>Comfort</b> - Daily housekeeping and climate-controlled heating and air conditioning</p><p><b>Accessibility</b> - Grab bar in bathtub, portable shower seat, and wheelchair accessible</p><p><b>Need to Know</b> - No cribs (infant beds) or rollaway/extra beds available</p><p>Non-Smoking</p><p>Connecting/adjoining rooms can be requested, subject to availability </p>",
+      "roomDetailIdentifier": "320797440|387323935|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVINU1JRU1cIFAMAAlYbBlFXAh4OAwIGGlJRUFUBUlALUgcCAj5BAlpdBldWAQIVCFwDBxpVAFBZGVwEAA0fUwkEDV0HVV9cUlQEVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgtTBPszPldDeVxbVUUkUAaWNE5qHRZHTUIEEgtAKV8MBHNRBkcdF0BQSVJADUZ9UFYGFhURRRNUV01ZFkwaCwIeaZwxZYA1ZwFRqDNjV1QAVk0NWtE1Z9liPMQ5Zr8xNfM2Z61nZJdkOc9mEFIFCwYCUgABSwNcAFZMBVIPABpUAVYESFUHBV1VVFQDAlYBBNA3fwoJBlceAVMcAw4wVQMCVwdcCgIXUAIGVgoGVFcJatkyZ04HVtnOHA|EPSFC",
+      "connectorName": "expedia",
+      "savings": 526.89,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 3863.67,
+        "tax": 0,
+        "netPrice": 3863.67
+      },
+      "originalPrice": null,
+      "nonRefundable": false,
+      "freeCancellationDate": "2023-01-16T14:00:00.000+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a fire extinguisher, a smoke detector, and a first aid kit</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul>. <ul>  <li>The property has connecting/adjoining rooms, which are subject to availability and can be requested by contacting the property using the number on the booking confirmation. </li><li>Free in-room WiFi has a 3-device limit. </li><li>Parking height restrictions apply. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Guests are provided with hand sanitizer and cashless payment methods are available for all transactions.</li><li>Contactless check-in and contactless check-out are available.</li><li>This property affirms that it follows the cleaning and disinfection practices of We Clean. We Care. We Welcome. (Millennium).</li><li> This property welcomes guests of all sexual orientations and gender identities (LGBTQ friendly). </li> </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 264.62,
+          "deadLineTimestamp": "2023-01-16T01:00:00",
+          "description": "Cancellations after 16th Jan 2023 01:00 a.m. incur a $264.62 cancellation fee."
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2023-01-16T01:00:00",
+          "end": "2023-01-17T01:00:00",
+          "amount": null,
+          "percent": null,
+          "nights": "1",
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": null,
+      "feesAtHotel": [
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Breakfast fee: between NZD 25 and NZD 30 for adults, NZD 15 and NZD 15 for children (approximately)</li>       <li>Covered self parking fee: NZD 10.00 per night</li>                     <li>Credit card charges are subject to a surcharge of 2 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 993,
+      "medianUserRating": 4.2,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["adventure", "backpacker", "family"]
+  },
+  {
+    "name": "Heritage Queenstown",
+    "hotelId": "69589",
+    "hotelDetailIdentifier": "69589|EPSFC",
+    "savingIdentifier": "69589|EPSFC",
+    "checkinDateTime": "2023-01-17T15:00",
+    "checkoutDateTime": "2023-01-24T10:00",
+    "nights": 7,
+    "leadRoom": {
+      "name": "Family Deluxe Room Non-Lakeview",
+      "shortName": "Option 1",
+      "code": null,
+      "description": "Choices of multiple bed types for the same room are requests only and may not be honoured at the hotel if availability does not permit.<p><strong>1 King Bed and 2 Twin Beds or 2 King Beds</strong></p><p>355-sq-foot room with garden views </p><br/><p><b>Relax</b> - In-room massage available</p><p><b>Internet</b> - Free WiFi </p><p><b>Entertainment</b> - 49-inch LCD TV with premium channels</p><p><b>Food & Drink</b> - Refrigerator, coffee/tea maker, and electric kettle</p><p><b>Sleep</b> - Blackout drapes/curtains and bed sheets </p><p><b>Bathroom</b> - Private bathroom, shower/tub combination, bathrobes, and free toiletries</p><p><b>Practical</b> - Safe, free newspaper, and iron/ironing board; free cribs/infant beds available on request</p><p><b>Comfort</b> - Air conditioning and daily housekeeping</p><p><b>Need to Know</b> - No rollaway/extra beds available</p><p>Non-Smoking</p>",
+      "roomDetailIdentifier": "200293663|207996730|F~OjogZyQ0NhkyAQ9PYWUCZ3kwD2gCCVAKS1YIFAQDITJUAVQAGAlVTgZQc2d1M3dkHVINU1JRU1cIFAMAAlYbBlFXAh4OAwIGGlJRUFUBUlALUgcCAj5BAlpdBldWAQIVCFwDBxpVAFBZGVwEAA0fUwkEDV0HVV9cUlQEVDJQA1MOAwZBNAABVAZCZVQGWboyOFGrMGcLVgxQAvszLldDeVxbVUUkUAYUVA9VRgYTYEUIXhEgB1IRwTBpOR4TQUpJVhVYFS9fV18jUV0RGERGUENVQA8aeloNUxYcRkNBBF0RC0YdR18BHE9DQUVNFVRBAhZsE15ddgZQRBlHFV4cXUdeFmAUW1tBG0RAE1VXEVwVSEMCV0prkDYz12JgBQyuMWIGWgcFHlEMgTk73GQ3wGAzuzVl9TE5_jRkmTM4zzYSAl4NUQJVVlMdUl1RAhlRUQQDTAcKUwUVUlwKB1VUUAxQAFEMimF4BQQBVBlVABxSWDJVAVhXUl9VURkCVFIAAgoGUQ9vjjE1ElJlFqmt|EPSFC",
+      "connectorName": "expedia",
+      "savings": 246.47,
+      "adults": null,
+      "children": null,
+      "price": {
+        "total": 3693.47,
+        "tax": 0,
+        "netPrice": 3693.47
+      },
+      "originalPrice": {
+        "total": 3627.95,
+        "tax": 0,
+        "netPrice": 3627.95
+      },
+      "nonRefundable": true,
+      "freeCancellationDate": "2022-12-07T08:59:00.000+13:00",
+      "supplierPolicy": "<ul>  <li>Extra-person charges may apply and vary depending on property policy</li><li>Government-issued photo identification and a credit card, debit card, or cash deposit may be required at check-in for incidental charges</li><li>Special requests are subject to availability upon check-in and may incur additional charges; special requests cannot be guaranteed</li><li>Safety features at this property include a carbon monoxide detector, a fire extinguisher, a smoke detector, a security system, and a first aid kit</li><li>Be prepared: check the latest COVID-19 travel requirements and measures in place for this destination before you travel.</li><li>Please note that cultural norms and guest policies may differ by country and by property; the policies listed are provided by the property</li>  </ul>. <ul>  <li>The seasonal pool will be open from January to December. </li><li>Pool access available from 6:00 AM to 11:00 PM.</li><li>Children 13 years old and younger stay free when occupying the parent or guardian's room, using existing bedding. </li><li>This property advises that enhanced cleaning and guest safety measures are currently in place.</li><li>Disinfectant is used to clean the property; commonly-touched surfaces are cleaned with disinfectant between stays; bed sheets and towels are laundered at a temperature of at least 60°C/140°F.</li><li>Guests are provided with hand sanitizer; cashless payment methods are available for all transactions; masks are required in public areas.</li><li>Contactless check-in and contactless check-out are available.</li><li>Enhanced food service safety measures are in place.</li><li>At check-in, guests must provide a record of full COVID-19 vaccination.</li><li>This property affirms that it adheres to the cleaning and disinfection practices of Intertek Cristal (3rd party expert - Global) and Safe Travels (WTTC - Global).</li>\n </ul>",
+      "cancellationPolicies": [
+        {
+          "flatFee": 1937.39,
+          "deadLineTimestamp": "",
+          "description": "Any changes or cancellations to a non-refundable room will incur a 100% cancellation fee"
+        }
+      ],
+      "cancelPenalties": [
+        {
+          "start": "2022-12-06T19:59:00",
+          "end": "2023-01-17T10:59:00",
+          "amount": null,
+          "percent": "100%",
+          "nights": null,
+          "currency": "AUD"
+        }
+      ],
+      "nonRefundableDateRanges": [
+        {
+          "start": "2023-01-17",
+          "end": "2023-01-23"
+        }
+      ],
+      "feesAtHotel": [
+        {
+          "description": "<strong>MANDATORY</strong> - <p>You'll be asked to pay the following charges at the property:</p> <ul><li>Deposit: NZD 50 per night</li></ul> <p>We have included all charges provided to us by the property. </p> <br/>",
+          "fee": null
+        },
+        {
+          "description": "<strong>OPTIONAL</strong> - <ul> <li>Fee for buffet breakfast: NZD 30 for adults and NZD 15 for children (approximately)</li>                   <li>Rollaway bed fee: NZD 50 per night</li>          <li>Credit card charges are subject to a surcharge of 1.5 percent </li>  </ul> <p>The above list may not be comprehensive. Fees and deposits may not include tax and are subject to change. </p> <br/>",
+          "fee": null
+        }
+      ],
+      "promotions": [
+        {
+          "description": "Free self parking",
+          "isPrimary": false
+        },
+        {
+          "description": "Free WiFi",
+          "isPrimary": false
+        }
+      ],
+      "specialRequestSupported": null,
+      "additionalRoomDisplayInfo": [],
+      "connectorId": 5
+    },
+    "specialNotice": null,
+    "tripAdvisor": {
+      "ratingImageUrl": null,
+      "userReviewCount": 978,
+      "medianUserRating": 4.4,
+      "userReviews": null
+    },
+    "supplierTermsUrl": null,
+    "roomGroups": null,
+    "policies": null,
+    "covidRequirements": null,
+    "highestSavings": false,
+    "tags": ["adventure", "backpacker", "family"]
+  }
+]
